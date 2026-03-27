@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Career tracks/Digial_IC/07-IcDesign_Projects/FIFO/FIFO_sync/FIFO_sync.srcs/sources_1/new/FIFO_sync.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FIFO_sync
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Career tracks/Digial_IC/07-IcDesign_Projects/FIFO/FIFO_sync/FIFO_sync.srcs/sim_1/new/FIFO_sync_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FIFO_sync_tb
