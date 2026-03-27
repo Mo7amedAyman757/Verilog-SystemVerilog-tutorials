@@ -1,0 +1,22 @@
+D:/IcDesign_Projects/PWM_Project/PWM_modelsim/PWM.v {1 {vlog -work work -stats=none {D:\IcDesign_Projects\PWM_Project\PWM_modelsim\PWM.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PWM
+
+Top level modules:
+	PWM
+
+} {} {}} D:/IcDesign_Projects/PWM_Project/PWM_modelsim/PWM_tb.v {1 {vlog -work work -stats=none {D:\IcDesign_Projects\PWM_Project\PWM_modelsim\PWM_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PWM_tb
+
+Top level modules:
+	PWM_tb
+
+} {} {}} D:/IcDesign_Projects/PWM_Project/PWM_modelsim/Timer.v {1 {vlog -work work -stats=none {D:\IcDesign_Projects\PWM_Project\PWM_modelsim\Timer.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Timer
+
+Top level modules:
+	Timer
+
+} {} {}}

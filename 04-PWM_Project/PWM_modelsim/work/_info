@@ -1,0 +1,83 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vPWM
+Z0 !s110 1756370472
+!i10b 1
+!s100 _??9>jPYY6IfGZoj1k0d52
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ICgDFQ9T>KK?0CR^a;BfG11
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/IcDesign_Projects/PWM_Project/PWM_modelsim
+w1756370318
+8D:\IcDesign_Projects\PWM_Project\PWM_modelsim\PWM.v
+FD:\IcDesign_Projects\PWM_Project\PWM_modelsim\PWM.v
+!i122 2
+L0 1 55
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1756370471.000000
+!s107 D:\IcDesign_Projects\PWM_Project\PWM_modelsim\PWM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\PWM_Project\PWM_modelsim\PWM.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@p@w@m
+vPWM_tb
+R0
+!i10b 1
+!s100 ^@EAmjG<I]mVl8PIfDhBZ0
+R1
+I4WQ;SIh[mJcHk>W_h?XlO3
+R2
+R3
+w1756370468
+8D:\IcDesign_Projects\PWM_Project\PWM_modelsim\PWM_tb.v
+FD:\IcDesign_Projects\PWM_Project\PWM_modelsim\PWM_tb.v
+!i122 4
+L0 1 54
+R4
+r1
+!s85 0
+31
+Z7 !s108 1756370472.000000
+!s107 D:\IcDesign_Projects\PWM_Project\PWM_modelsim\PWM_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\PWM_Project\PWM_modelsim\PWM_tb.v|
+!i113 1
+R5
+R6
+n@p@w@m_tb
+vTimer
+R0
+!i10b 1
+!s100 :bSJRiGD3Y3HX>f>bC^ng0
+R1
+I@8Ya3R?^8A>`V2[]@[2hO1
+R2
+R3
+w1756370247
+8D:\IcDesign_Projects\PWM_Project\PWM_modelsim\Timer.v
+FD:\IcDesign_Projects\PWM_Project\PWM_modelsim\Timer.v
+!i122 3
+L0 1 30
+R4
+r1
+!s85 0
+31
+R7
+!s107 D:\IcDesign_Projects\PWM_Project\PWM_modelsim\Timer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\PWM_Project\PWM_modelsim\Timer.v|
+!i113 1
+R5
+R6
+n@timer

@@ -1,0 +1,24 @@
+# Compile of LFSR.v was successful.
+# Compile of LFSR_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.LFSR_tb
+# vsim -gui work.LFSR_tb 
+# Start time: 11:51:00 on Aug 28,2025
+# Loading work.LFSR_tb
+# Loading work.LFSR
+add wave -position insertpoint  \
+sim:/LFSR_tb/T \
+sim:/LFSR_tb/reset_n \
+sim:/LFSR_tb/Q \
+sim:/LFSR_tb/N \
+sim:/LFSR_tb/clk
+run
+# ** Note: $stop    : D:/IcDesign_Projects/Modelsim/LFSR/LFSR_tb.v(38)
+#    Time: 85 ps  Iteration: 0  Instance: /LFSR_tb
+# Break in Module LFSR_tb at D:/IcDesign_Projects/Modelsim/LFSR/LFSR_tb.v line 38
+run
+quit -sim
+# End time: 11:51:43 on Aug 28,2025, Elapsed time: 0:00:43
+# Errors: 0, Warnings: 8
+# Break key hit
+# reading C:/intelFPGA/20.1/modelsim_ase/win32aloem/../modelsim.ini
