@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "C:/Xilinx/2025.1/Vivado/data/rsb/busdef" \
+"../../../../../FullAdder_nbitFlow/FullAdder_nbitFlow.srcs/sources_1/new/adder_nbit.v" \
+"../../../../AdderSubtractor_nbit.srcs/sources_1/new/adder_subtractor_nbit.v" \
+"../../../../../FullAdder_flow/FullAdder_flow.srcs/sources_1/new/full_adder.v" \
+"../../../../../HalfAdder_flow/Adder_flow.srcs/sources_1/new/half_adder.v" \
+"../../../../AdderSubtractor_nbit.srcs/sources_1/new/negative_design.v" \
+"../../../../AdderSubtractor_nbit.srcs/sources_1/new/overflow_design.v" \
+"../../../../AdderSubtractor_nbit.srcs/sim_1/new/test_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,31 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Mon Aug 11 18:43:05 2025
+# Process ID         : 12436
+# Current directory  : D:/IcDesign_Projects/Verilog/AdderSubtractor_nbit
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent1876 D:\IcDesign_Projects\Verilog\AdderSubtractor_nbit\AdderSubtractor_nbit.xpr
+# Log file           : D:/IcDesign_Projects/Verilog/AdderSubtractor_nbit/vivado.log
+# Journal file       : D:/IcDesign_Projects/Verilog/AdderSubtractor_nbit\vivado.jou
+# Running On         : MohamedAyman
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : AMD Ryzen 7 5800H with Radeon Graphics         
+# CPU Frequency      : 3194 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 14877 MB
+# Swap memory        : 3623 MB
+# Total Virtual      : 18501 MB
+# Available Virtual  : 6109 MB
+#-----------------------------------------------------------
+start_gui
+open_project D:/IcDesign_Projects/Verilog/AdderSubtractor_nbit/AdderSubtractor_nbit.xpr
+update_compile_order -fileset sources_1
+synth_design -top adder_subtractor_nbit -part xc7vx485tffg1157-1 -lint 
+synth_design -rtl -rtl_skip_mlo -name rtl_1
+launch_simulation
+source test_tb.tcl
+close_sim

@@ -1,0 +1,174 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Sun Aug 24 11:09:43 2025
+# Process ID         : 25304
+# Current directory  : D:/IcDesign_Projects/Verilog/BCD_counter
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent22716 D:\IcDesign_Projects\Verilog\BCD_counter\BCD_counter.xpr
+# Log file           : D:/IcDesign_Projects/Verilog/BCD_counter/vivado.log
+# Journal file       : D:/IcDesign_Projects/Verilog/BCD_counter\vivado.jou
+# Running On         : MohamedAyman
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : AMD Ryzen 7 5800H with Radeon Graphics         
+# CPU Frequency      : 3194 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 14877 MB
+# Swap memory        : 2952 MB
+# Total Virtual      : 17830 MB
+# Available Virtual  : 6230 MB
+#-----------------------------------------------------------
+start_gui
+open_project D:/IcDesign_Projects/Verilog/BCD_counter/BCD_counter.xpr
+file mkdir D:/IcDesign_Projects/Verilog/BCD_counter/BCD_counter.srcs/sources_1/new
+close [ open D:/IcDesign_Projects/Verilog/BCD_counter/BCD_counter.srcs/sources_1/new/BCD_counter.v w ]
+add_files D:/IcDesign_Projects/Verilog/BCD_counter/BCD_counter.srcs/sources_1/new/BCD_counter.v
+update_compile_order -fileset sources_1
+file mkdir D:/IcDesign_Projects/Verilog/BCD_counter/BCD_counter.srcs/sim_1/new
+set_property SOURCE_SET sources_1 [get_filesets sim_1]
+close [ open D:/IcDesign_Projects/Verilog/BCD_counter/BCD_counter.srcs/sim_1/new/BCD_counter_tb.v w ]
+add_files -fileset sim_1 D:/IcDesign_Projects/Verilog/BCD_counter/BCD_counter.srcs/sim_1/new/BCD_counter_tb.v
+update_compile_order -fileset sim_1
+update_compile_order -fileset sim_1
+launch_simulation
+source BCD_counter_tb.tcl
+set_property SOURCE_SET sources_1 [get_filesets sim_1]
+close [ open D:/IcDesign_Projects/Verilog/BCD_counter/BCD_counter.srcs/sim_1/new/multi_decade_counter.v w ]
+add_files -fileset sim_1 D:/IcDesign_Projects/Verilog/BCD_counter/BCD_counter.srcs/sim_1/new/multi_decade_counter.v
+update_compile_order -fileset sim_1
+set_property SOURCE_SET sources_1 [get_filesets sim_1]
+close [ open D:/IcDesign_Projects/Verilog/BCD_counter/BCD_counter.srcs/sim_1/new/multi_decade_counter_tb.v w ]
+add_files -fileset sim_1 D:/IcDesign_Projects/Verilog/BCD_counter/BCD_counter.srcs/sim_1/new/multi_decade_counter_tb.v
+update_compile_order -fileset sim_1
+move_files [get_files  D:/IcDesign_Projects/Verilog/BCD_counter/BCD_counter.srcs/sim_1/new/multi_decade_counter.v]
+update_compile_order -fileset sources_1
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top multi_decade_counter_tb [get_filesets sim_1]
+set_property top_lib xil_defaultlib [get_filesets sim_1]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+update_compile_order -fileset sim_1
+launch_simulation
+close_sim
+launch_simulation
+source multi_decade_counter_tb.tcl
+close_sim
+launch_simulation
+source multi_decade_counter_tb.tcl
+close_sim
+launch_simulation
+source multi_decade_counter_tb.tcl
+close_sim
+launch_simulation
+source multi_decade_counter_tb.tcl
+close_sim
+launch_simulation
+source multi_decade_counter_tb.tcl
+close_sim
+close_project
+create_project Timers D:/IcDesign_Projects/Verilog/Timers -part xc7vx485tffg1157-1
+file mkdir D:/IcDesign_Projects/Verilog/Timers/Timers.srcs/sources_1/new
+close [ open D:/IcDesign_Projects/Verilog/Timers/Timers.srcs/sources_1/new/timer_parameter.v w ]
+add_files D:/IcDesign_Projects/Verilog/Timers/Timers.srcs/sources_1/new/timer_parameter.v
+update_compile_order -fileset sources_1
+file mkdir D:/IcDesign_Projects/Verilog/Timers/Timers.srcs/sim_1/new
+set_property SOURCE_SET sources_1 [get_filesets sim_1]
+close [ open D:/IcDesign_Projects/Verilog/Timers/Timers.srcs/sim_1/new/timer_parameter_tb.v w ]
+add_files -fileset sim_1 D:/IcDesign_Projects/Verilog/Timers/Timers.srcs/sim_1/new/timer_parameter_tb.v
+update_compile_order -fileset sim_1
+update_compile_order -fileset sim_1
+launch_simulation
+source timer_parameter_tb.tcl
+close_sim
+launch_simulation
+source timer_parameter_tb.tcl
+close_sim
+launch_simulation
+source timer_parameter_tb.tcl
+close_sim
+launch_simulation
+source timer_parameter_tb.tcl
+close_sim
+launch_simulation
+source timer_parameter_tb.tcl
+close_sim
+launch_simulation
+source timer_parameter_tb.tcl
+close_sim
+launch_simulation
+source timer_parameter_tb.tcl
+close_sim
+launch_simulation
+source timer_parameter_tb.tcl
+close_sim
+launch_simulation
+source timer_parameter_tb.tcl
+close_sim
+launch_simulation
+source timer_parameter_tb.tcl
+set_property -name {xsim.simulate.runtime} -value {500us} -objects [get_filesets sim_1]
+close_sim
+launch_simulation
+source timer_parameter_tb.tcl
+close_sim
+launch_simulation
+source timer_parameter_tb.tcl
+close_sim
+launch_simulation
+source timer_parameter_tb.tcl
+close_sim
+launch_simulation
+source timer_parameter_tb.tcl
+close_sim
+launch_simulation
+source timer_parameter_tb.tcl
+close_sim
+launch_simulation
+source timer_parameter_tb.tcl
+close_sim
+launch_simulation
+source timer_parameter_tb.tcl
+close_sim
+launch_simulation
+source timer_parameter_tb.tcl
+close_sim
+launch_simulation
+source timer_parameter_tb.tcl
+close_sim
+launch_simulation
+source timer_parameter_tb.tcl
+close_sim
+launch_simulation
+source timer_parameter_tb.tcl
+close_sim
+set_property -name {xsim.simulate.runtime} -value {1000ns} -objects [get_filesets sim_1]
+launch_simulation
+source timer_parameter_tb.tcl
+set_property -name {xsim.simulate.runtime} -value {1000us} -objects [get_filesets sim_1]
+close_sim
+launch_simulation
+source timer_parameter_tb.tcl
+set_property -name {xsim.simulate.runtime} -value {500us} -objects [get_filesets sim_1]
+close_sim
+launch_simulation
+source timer_parameter_tb.tcl
+set_property -name {xsim.simulate.runtime} -value {1ms} -objects [get_filesets sim_1]
+close_sim
+launch_simulation
+source timer_parameter_tb.tcl
+set_property -name {xsim.simulate.runtime} -value {5ms} -objects [get_filesets sim_1]
+close_sim
+launch_simulation
+source timer_parameter_tb.tcl
+close_sim
+launch_simulation
+source timer_parameter_tb.tcl
+close_sim
+launch_simulation
+source timer_parameter_tb.tcl
+close_sim
+set_property -name {xsim.simulate.runtime} -value {1000ns} -objects [get_filesets sim_1]

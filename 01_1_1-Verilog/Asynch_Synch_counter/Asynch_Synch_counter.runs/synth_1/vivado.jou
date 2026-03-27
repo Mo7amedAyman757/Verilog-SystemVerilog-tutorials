@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Sat Sep 13 14:59:03 2025
+# Process ID         : 14224
+# Current directory  : D:/IcDesign_Projects/Verilog/Asynch_Synch_counter/Asynch_Synch_counter.runs/synth_1
+# Command line       : vivado.exe -log Asynch_counter.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Asynch_counter.tcl
+# Log file           : D:/IcDesign_Projects/Verilog/Asynch_Synch_counter/Asynch_Synch_counter.runs/synth_1/Asynch_counter.vds
+# Journal file       : D:/IcDesign_Projects/Verilog/Asynch_Synch_counter/Asynch_Synch_counter.runs/synth_1\vivado.jou
+# Running On         : MohamedAyman
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : AMD Ryzen 7 5800H with Radeon Graphics         
+# CPU Frequency      : 3194 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 14877 MB
+# Swap memory        : 3355 MB
+# Total Virtual      : 18232 MB
+# Available Virtual  : 3297 MB
+#-----------------------------------------------------------
+source Asynch_counter.tcl -notrace

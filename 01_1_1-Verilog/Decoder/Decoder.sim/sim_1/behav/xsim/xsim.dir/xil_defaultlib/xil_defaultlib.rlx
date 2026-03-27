@@ -1,0 +1,10 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+D:/IcDesign_Projects/Verilog/Decoder/Decoder.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+D:/IcDesign_Projects/Verilog/Decoder/Decoder.srcs/sim_1/new/test_tb.v,1754607146,verilog,,,,test_tb,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/IcDesign_Projects/Verilog/Decoder/Decoder.srcs/sources_1/new/decoder_2x4_behav.v,1754605551,verilog,,D:/IcDesign_Projects/Verilog/Decoder/Decoder.srcs/sim_1/new/test_tb.v,,decoder_2x4_behav,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/IcDesign_Projects/Verilog/Decoder/Decoder.srcs/sources_1/new/decoder_2x4_en.v,1754606090,verilog,,D:/IcDesign_Projects/Verilog/Decoder/Decoder.srcs/sim_1/new/test_tb.v,,decoder_2x4_en,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/IcDesign_Projects/Verilog/Decoder/Decoder.srcs/sources_1/new/decoder_2x4_struc.v,1754602814,verilog,,D:/IcDesign_Projects/Verilog/Decoder/Decoder.srcs/sim_1/new/test_tb.v,,decoder_2x4_struc,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/IcDesign_Projects/Verilog/Decoder/Decoder.srcs/sources_1/new/decoder_generic.v,1754607672,verilog,,D:/IcDesign_Projects/Verilog/Decoder/Decoder.srcs/sim_1/new/test_tb.v,,decoder_generic,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
