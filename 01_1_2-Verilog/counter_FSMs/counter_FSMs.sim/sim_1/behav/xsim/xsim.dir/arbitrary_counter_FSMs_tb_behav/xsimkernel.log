@@ -1,0 +1,7 @@
+Running: xsim.dir/arbitrary_counter_FSMs_tb_behav/xsimk.exe -simmode gui -wdb arbitrary_counter_FSMs_tb_behav.wdb -simrunnum 0 -socket 50487
+Design successfully loaded
+Design Loading Memory Usage: 10824 KB (Peak: 10824 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 11780 KB (Peak: 11780 KB)
+Simulation CPU Usage: 46 ms

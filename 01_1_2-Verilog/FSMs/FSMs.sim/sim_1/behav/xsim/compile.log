@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/IcDesign_Projects/Verilog/FSMs/FSMs.srcs/sources_1/new/mealy_011_detector.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mealy_011_detector
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/IcDesign_Projects/Verilog/FSMs/FSMs.srcs/sources_1/new/moore_011_detector.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module moore_011_detector
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/IcDesign_Projects/Verilog/FSMs/FSMs.srcs/sources_1/new/moore_3ff_011_detector.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module moore_3ff_011_detector
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/IcDesign_Projects/Verilog/FSMs/FSMs.srcs/sim_1/new/detector_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module detector_tb
+WARNING: [VRFC 10-3248] data object 'Q_moore_3ff' is already declared [D:/IcDesign_Projects/Verilog/FSMs/FSMs.srcs/sim_1/new/detector_tb.v:30]
+WARNING: [VRFC 10-9364] second declaration of 'Q_moore_3ff' is ignored [D:/IcDesign_Projects/Verilog/FSMs/FSMs.srcs/sim_1/new/detector_tb.v:30]

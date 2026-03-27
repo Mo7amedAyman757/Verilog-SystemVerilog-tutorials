@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "C:/Xilinx/2025.1/Vivado/data/rsb/busdef" \
+"../../../../FSMs.srcs/sources_1/new/mealy_011_detector.v" \
+"../../../../FSMs.srcs/sources_1/new/moore_011_detector.v" \
+"../../../../FSMs.srcs/sources_1/new/moore_3ff_011_detector.v" \
+"../../../../FSMs.srcs/sim_1/new/detector_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
