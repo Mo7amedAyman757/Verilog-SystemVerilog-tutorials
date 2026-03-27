@@ -1,0 +1,11 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+D:/IcDesign_Projects/Verilog/Up_Down_counter/Up_Down_counter.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+D:/IcDesign_Projects/Verilog/Up_Down_counter/Up_Down_counter.srcs/sim_1/new/udl_counter_tb.v,1755779499,verilog,,,,udl_counter_tb,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/IcDesign_Projects/Verilog/Up_Down_counter/Up_Down_counter.srcs/sim_1/new/up_counter_tb.v,1755776985,verilog,,,,up_counter_tb,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/IcDesign_Projects/Verilog/Up_Down_counter/Up_Down_counter.srcs/sim_1/new/up_down_counter_tb.v,1755778749,verilog,,,,up_down_counter_tb,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/IcDesign_Projects/Verilog/Up_Down_counter/Up_Down_counter.srcs/sources_1/new/Up_counter.v,1755777055,verilog,,D:/IcDesign_Projects/Verilog/Up_Down_counter/Up_Down_counter.srcs/sim_1/new/up_counter_tb.v,,Up_counter,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/IcDesign_Projects/Verilog/Up_Down_counter/Up_Down_counter.srcs/sources_1/new/udl_counter.v,1755779171,verilog,,D:/IcDesign_Projects/Verilog/Up_Down_counter/Up_Down_counter.srcs/sim_1/new/udl_counter_tb.v,,udl_counter,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/IcDesign_Projects/Verilog/Up_Down_counter/Up_Down_counter.srcs/sources_1/new/up_down_counter.v,1755778431,verilog,,D:/IcDesign_Projects/Verilog/Up_Down_counter/Up_Down_counter.srcs/sim_1/new/up_down_counter_tb.v,,up_down_counter,,,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,

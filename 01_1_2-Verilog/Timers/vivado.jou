@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Sun Aug 24 16:03:41 2025
+# Process ID         : 12156
+# Current directory  : D:/IcDesign_Projects/Verilog/Timers
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent14192 D:\IcDesign_Projects\Verilog\Timers\Timers.xpr
+# Log file           : D:/IcDesign_Projects/Verilog/Timers/vivado.log
+# Journal file       : D:/IcDesign_Projects/Verilog/Timers\vivado.jou
+# Running On         : MohamedAyman
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : AMD Ryzen 7 5800H with Radeon Graphics         
+# CPU Frequency      : 3194 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 14877 MB
+# Swap memory        : 2952 MB
+# Total Virtual      : 17830 MB
+# Available Virtual  : 4115 MB
+#-----------------------------------------------------------
+start_gui
+open_project D:/IcDesign_Projects/Verilog/Timers/Timers.xpr
+update_compile_order -fileset sources_1

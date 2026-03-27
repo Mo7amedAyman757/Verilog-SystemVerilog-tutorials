@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/IcDesign_Projects/Verilog/Registers/Registers.srcs/sources_1/new/univ_shift_reg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module univ_shift_reg
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/IcDesign_Projects/Verilog/Registers/Registers.srcs/sim_1/new/univ_shift_register_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module univ_shift_register_tb

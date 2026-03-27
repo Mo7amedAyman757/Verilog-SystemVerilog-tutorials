@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/IcDesign_Projects/Verilog/Up_Down_counter/Up_Down_counter.srcs/sources_1/new/udl_counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module udl_counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/IcDesign_Projects/Verilog/Up_Down_counter/Up_Down_counter.srcs/sim_1/new/udl_counter_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module udl_counter_tb

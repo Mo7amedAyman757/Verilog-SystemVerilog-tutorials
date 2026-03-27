@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Career tracks/Digial_IC/07-IcDesign_Projects/01-Verilog/Pipelining/pipelining2/pipelining2.srcs/sources_1/new/pipelining_4stages.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pipelining_4stages
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Career tracks/Digial_IC/07-IcDesign_Projects/01-Verilog/Pipelining/pipelining2/pipelining2.srcs/sim_1/new/pipelining_4stages_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pipelining_4stages_tb
