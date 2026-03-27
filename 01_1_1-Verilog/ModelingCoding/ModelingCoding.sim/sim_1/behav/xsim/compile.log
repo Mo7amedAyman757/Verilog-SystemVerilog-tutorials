@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/IcDesign_Projects/Verilog/ModelingCoding/ModelingCoding.srcs/sources_1/new/Circuit_Des.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Circuit_Des
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/IcDesign_Projects/Verilog/ModelingCoding/ModelingCoding.srcs/sim_1/new/test_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test_tb

@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Wed Oct 22 19:33:48 2025
+# Process ID         : 12256
+# Current directory  : D:/Career tracks/Digial_IC/07-IcDesign_Projects/Verilog/Encoder
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent29580 D:\Career tracks\Digial_IC\07-IcDesign_Projects\Verilog\Encoder\Encoder.xpr
+# Log file           : D:/Career tracks/Digial_IC/07-IcDesign_Projects/Verilog/Encoder/vivado.log
+# Journal file       : D:/Career tracks/Digial_IC/07-IcDesign_Projects/Verilog/Encoder\vivado.jou
+# Running On         : MohamedAyman
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : AMD Ryzen 7 5800H with Radeon Graphics         
+# CPU Frequency      : 3194 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 14877 MB
+# Swap memory        : 6062 MB
+# Total Virtual      : 20939 MB
+# Available Virtual  : 4023 MB
+#-----------------------------------------------------------
+start_gui
+open_project {D:/Career tracks/Digial_IC/07-IcDesign_Projects/Verilog/Encoder/Encoder.xpr}
+update_compile_order -fileset sources_1

@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Projects/Verilog/grayTobinary/grayTobinary.srcs/sources_1/new/grTObi.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module grTObi
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Projects/Verilog/grayTobinary/grayTobinary.srcs/sim_1/new/test_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test_tb
