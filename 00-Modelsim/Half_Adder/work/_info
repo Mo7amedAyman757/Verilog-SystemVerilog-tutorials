@@ -1,0 +1,33 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vhalf_adder
+!s110 1754441059
+!i10b 1
+!s100 eBHP`f5KG`do9VDl>3cZn3
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+ISJ<IAFz4XGmSH]@?9J3jR2
+VDg1SIo80bB@j0V0VzS_@n1
+dD:/Projects/Modelsim
+w1754439492
+8half_adder.v
+Fhalf_adder.v
+!i122 1
+L0 3 9
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1754441059.000000
+!s107 half_adder.v|
+!s90 half_adder.v|
+!i113 1
+tCvgOpt 0

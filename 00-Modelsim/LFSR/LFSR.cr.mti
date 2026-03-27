@@ -1,0 +1,15 @@
+D:/IcDesign_Projects/Modelsim/LFSR/LFSR.v {1 {vlog -work work -stats=none {D:\IcDesign_Projects\Modelsim\LFSR\LFSR.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module LFSR
+
+Top level modules:
+	LFSR
+
+} {} {}} D:/IcDesign_Projects/Modelsim/LFSR/LFSR_tb.v {1 {vlog -work work -stats=none {D:\IcDesign_Projects\Modelsim\LFSR\LFSR_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module LFSR_tb
+
+Top level modules:
+	LFSR_tb
+
+} {} {}}

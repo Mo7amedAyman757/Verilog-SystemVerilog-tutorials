@@ -1,0 +1,40 @@
+# Compile of decoder_generic.v was successful.
+# Compile of test_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.test_tb
+# vsim -gui work.test_tb 
+# Start time: 02:28:22 on Aug 13,2025
+# Loading work.test_tb
+# Loading work.decoder_generic
+# ** Warning: (vsim-3015) [PCDPC] - Port size (4) does not match connection size (5) for port 'w'. The port definition is at: D:/IcDesign_Projects/Modelsim/Decoder/decoder_generic.v(3).
+#    Time: 0 ps  Iteration: 0  Instance: /test_tb/test File: D:/IcDesign_Projects/Modelsim/Mux/test_tb.v Line: 13
+add wave -position insertpoint  \
+sim:/test_tb/w \
+sim:/test_tb/en \
+sim:/test_tb/z
+run
+# ** Note: $finish    : D:/IcDesign_Projects/Modelsim/Mux/test_tb.v(21)
+#    Time: 50 ps  Iteration: 0  Instance: /test_tb
+# 1
+# Break in Module test_tb at D:/IcDesign_Projects/Modelsim/Mux/test_tb.v line 21
+quit -sim
+# End time: 02:29:24 on Aug 13,2025, Elapsed time: 0:01:02
+# Errors: 0, Warnings: 7
+# reading C:/intelFPGA/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project Encoder
+# Compile of Priority_Encoder_generic.v was successful.
+# Compile of test_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.test_tb
+# vsim -gui work.test_tb 
+# Start time: 02:33:15 on Aug 13,2025
+# Loading work.test_tb
+# Loading work.priority_encoder_generic
+add wave -position insertpoint  \
+sim:/test_tb/test/x \
+sim:/test_tb/test/z \
+sim:/test_tb/test/y
+run
+quit -sim
+# End time: 02:36:09 on Aug 13,2025, Elapsed time: 0:02:54
+# Errors: 0, Warnings: 8

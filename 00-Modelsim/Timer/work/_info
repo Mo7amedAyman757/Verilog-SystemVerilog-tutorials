@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/IcDesign_Projects/Modelsim/BCD_counter
+vtimer_parameter
+Z0 !s110 1756028181
+!i10b 1
+!s100 Od:5Ug9FD21lR>;CbQP]m3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I^VbZ<2Yhe7fZ>B0E5HljI1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/IcDesign_Projects/Modelsim/Timer
+w1756028159
+8D:\IcDesign_Projects\Modelsim\Timer\timer_parameter.v
+FD:\IcDesign_Projects\Modelsim\Timer\timer_parameter.v
+!i122 0
+L0 1 29
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1756028181.000000
+!s107 D:\IcDesign_Projects\Modelsim\Timer\timer_parameter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\Modelsim\Timer\timer_parameter.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vtimer_parameter_tb
+R0
+!i10b 1
+!s100 ^0<0Tjbe]:jibZKV?eRD@1
+R1
+I35LIHCl4;bmJ8e;`K<@[W3
+R2
+R3
+w1756028177
+8D:\IcDesign_Projects\Modelsim\Timer\timer_parameter_tb.v
+FD:\IcDesign_Projects\Modelsim\Timer\timer_parameter_tb.v
+!i122 1
+L0 1 37
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:\IcDesign_Projects\Modelsim\Timer\timer_parameter_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\Modelsim\Timer\timer_parameter_tb.v|
+!i113 1
+R6
+R7

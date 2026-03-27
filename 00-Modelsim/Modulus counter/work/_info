@@ -1,0 +1,149 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/IcDesign_Projects/Modelsim/Up_Down_counter
+vmod_counter_hardcoded
+Z0 !s110 1755782980
+!i10b 1
+!s100 jWh0?b3lhe7;RQLOX8Z;b0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ih0<>DzB2k4T49X9_A`R7m0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/IcDesign_Projects/Modelsim/Modulus counter
+w1755781678
+8D:\IcDesign_Projects\Modelsim\Modulus counter\mod_counter_hardcoded.v
+FD:\IcDesign_Projects\Modelsim\Modulus counter\mod_counter_hardcoded.v
+!i122 46
+L0 2 30
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1755782980.000000
+!s107 D:\IcDesign_Projects\Modelsim\Modulus counter\mod_counter_hardcoded.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\Modelsim\Modulus counter\mod_counter_hardcoded.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vmod_counter_hardcoded_tb
+R0
+!i10b 1
+!s100 mPSHB3=5X6^c<<n;jV6GR1
+R1
+I9lkADOzmWo`O_ULXW_9Q03
+R2
+R3
+w1755781693
+8D:\IcDesign_Projects\Modelsim\Modulus counter\mod_counter_hardcoded_tb.v
+FD:\IcDesign_Projects\Modelsim\Modulus counter\mod_counter_hardcoded_tb.v
+!i122 47
+L0 1 39
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:\IcDesign_Projects\Modelsim\Modulus counter\mod_counter_hardcoded_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\Modelsim\Modulus counter\mod_counter_hardcoded_tb.v|
+!i113 1
+R6
+R7
+vmod_counter_input
+Z8 !s110 1755782981
+!i10b 1
+!s100 ]N;1=Z5C26ZBQ4@b_IJk>1
+R1
+Ig5R?hH=UD[UnF>QDK]Qzm1
+R2
+R3
+w1755781789
+8D:\IcDesign_Projects\Modelsim\Modulus counter\mod_counter_input.v
+FD:\IcDesign_Projects\Modelsim\Modulus counter\mod_counter_input.v
+!i122 48
+L0 1 31
+R4
+r1
+!s85 0
+31
+Z9 !s108 1755782981.000000
+!s107 D:\IcDesign_Projects\Modelsim\Modulus counter\mod_counter_input.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\Modelsim\Modulus counter\mod_counter_input.v|
+!i113 1
+R6
+R7
+vmod_counter_input_tb
+R8
+!i10b 1
+!s100 [Ue`A5:<JknFWn60C>1k;3
+R1
+Ihl[3PX:nJgHZnI9DaNF9A3
+R2
+R3
+w1755781804
+8D:\IcDesign_Projects\Modelsim\Modulus counter\mod_counter_input_tb.v
+FD:\IcDesign_Projects\Modelsim\Modulus counter\mod_counter_input_tb.v
+!i122 49
+L0 2 47
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:\IcDesign_Projects\Modelsim\Modulus counter\mod_counter_input_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\Modelsim\Modulus counter\mod_counter_input_tb.v|
+!i113 1
+R6
+R7
+vmod_counter_parameter_tb
+!s110 1755782773
+!i10b 1
+!s100 jfn>7fU7mNfUD>Z:ZN`b13
+R1
+IAJh=eFm0JDR]1nXfCPIiA0
+R2
+R3
+w1755782490
+8D:\IcDesign_Projects\Modelsim\Modulus counter\mod_counter_parameter_tb.v
+FD:\IcDesign_Projects\Modelsim\Modulus counter\mod_counter_parameter_tb.v
+!i122 45
+Z10 L0 1 40
+R4
+r1
+!s85 0
+31
+!s108 1755782773.000000
+!s107 D:\IcDesign_Projects\Modelsim\Modulus counter\mod_counter_parameter_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\Modelsim\Modulus counter\mod_counter_parameter_tb.v|
+!i113 1
+R6
+R7
+vmod_counter_paramter_tb
+!s110 1755782385
+!i10b 1
+!s100 SPXjPSE0JOkcY@zj;:@F:3
+R1
+Igd23bF<L1aOYX5_Pn=5Gj3
+R2
+R3
+w1755782379
+8D:\IcDesign_Projects\Modelsim\Modulus counter\mod_counter_paramter_tb.v
+FD:\IcDesign_Projects\Modelsim\Modulus counter\mod_counter_paramter_tb.v
+!i122 25
+R10
+R4
+r1
+!s85 0
+31
+!s108 1755782385.000000
+!s107 D:\IcDesign_Projects\Modelsim\Modulus counter\mod_counter_paramter_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\Modelsim\Modulus counter\mod_counter_paramter_tb.v|
+!i113 1
+R6
+R7

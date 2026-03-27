@@ -1,0 +1,15 @@
+D:/IcDesign_Projects/Modelsim/GrayToBinary/GrayTobinary.v {1 {vlog -work work -stats=none {D:\IcDesign_Projects\Modelsim\GrayToBinary\GrayTobinary.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module grTObi
+
+Top level modules:
+	grTObi
+
+} {} {}} D:/IcDesign_Projects/Modelsim/GrayToBinary/Test_tb.v {1 {vlog -work work -stats=none {D:\IcDesign_Projects\Modelsim\GrayToBinary\Test_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module test_tb
+
+Top level modules:
+	test_tb
+
+} {} {}}

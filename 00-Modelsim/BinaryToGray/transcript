@@ -1,0 +1,22 @@
+# Compile of GrayTobinary.v was successful.
+# Compile of Test_tb.v failed with 5 errors.
+# 2 compiles, 1 failed with 5 errors.
+# Compile of GrayTobinary.v was successful.
+# Compile of Test_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.test_tb
+# vsim -gui work.test_tb 
+# Start time: 01:48:33 on Aug 13,2025
+# Loading work.test_tb
+# Loading work.grTObi
+add wave -position insertpoint  \
+sim:/test_tb/gray \
+sim:/test_tb/binary
+run
+# ** Note: $finish    : D:/IcDesign_Projects/Modelsim/GrayToBinary/Test_tb.v(19)
+#    Time: 40 ps  Iteration: 0  Instance: /test_tb
+# 1
+# Break in Module test_tb at D:/IcDesign_Projects/Modelsim/GrayToBinary/Test_tb.v line 19
+quit
+# End time: 01:49:32 on Aug 13,2025, Elapsed time: 0:00:59
+# Errors: 0, Warnings: 9

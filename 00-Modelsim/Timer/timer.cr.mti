@@ -1,0 +1,15 @@
+D:/IcDesign_Projects/Modelsim/Timer/timer_parameter.v {1 {vlog -work work -stats=none {D:\IcDesign_Projects\Modelsim\Timer\timer_parameter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module timer_parameter
+
+Top level modules:
+	timer_parameter
+
+} {} {}} D:/IcDesign_Projects/Modelsim/Timer/timer_parameter_tb.v {1 {vlog -work work -stats=none {D:\IcDesign_Projects\Modelsim\Timer\timer_parameter_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module timer_parameter_tb
+
+Top level modules:
+	timer_parameter_tb
+
+} {} {}}

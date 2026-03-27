@@ -1,0 +1,16 @@
+# Reading pref.tcl
+# vsim -gui half_adder 
+# Start time: 03:44:57 on Aug 06,2025
+# Loading work.half_adder
+add wave -position insertpoint  \
+sim:/half_adder/x \
+sim:/half_adder/y \
+sim:/half_adder/s \
+sim:/half_adder/c
+force -freeze sim:/half_adder/x 1 0
+force -freeze sim:/half_adder/y 1 0
+run
+force -freeze sim:/half_adder/x 0 0
+run
+# End time: 03:46:33 on Aug 06,2025, Elapsed time: 0:01:36
+# Errors: 0, Warnings: 0

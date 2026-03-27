@@ -1,0 +1,54 @@
+# Compile of D_Latch.v was successful.
+# Compile of D_FF_pos.v was successful.
+# Compile of D_FF_neg.v was successful.
+# Compile of test_tb.v was successful.
+# Compile of Compare_storage_element.v was successful.
+# 5 compiles, 0 failed with no errors.
+vsim -gui work.test_tb
+# vsim -gui work.test_tb 
+# Start time: 17:37:15 on Aug 19,2025
+# Loading work.test_tb
+# Loading work.compare_storage_element
+# ** Error: (vsim-3033) Instantiation of 'D_latch' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /test_tb/test File: D:/IcDesign_Projects/Modelsim/Latch_Flip-Flop/Compare_storage_element.v Line: 7
+#         Searched libraries:
+#             D:/IcDesign_Projects/Modelsim/Latch_Flip-Flop/work
+# Loading work.D_FF_pos
+# Loading work.D_FF_neg
+# Error loading design
+# End time: 17:37:15 on Aug 19,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 2
+# Compile of D_Latch.v was successful.
+# Compile of D_FF_pos.v was successful.
+# Compile of D_FF_neg.v was successful.
+# Compile of test_tb.v was successful.
+# Compile of Compare_storage_element.v was successful.
+# 5 compiles, 0 failed with no errors.
+vsim -gui work.test_tb
+# vsim -gui work.test_tb 
+# Start time: 17:38:16 on Aug 19,2025
+# Loading work.test_tb
+# Loading work.compare_storage_element
+# Loading work.D_Latch
+# Loading work.D_FF_pos
+# Loading work.D_FF_neg
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'L0'.  Expected 4, found 3.
+#    Time: 0 ps  Iteration: 0  Instance: /test_tb/test/L0 File: D:/IcDesign_Projects/Modelsim/Latch_Flip-Flop/Compare_storage_element.v Line: 7
+# ** Warning: (vsim-3722) D:/IcDesign_Projects/Modelsim/Latch_Flip-Flop/Compare_storage_element.v(7): [TFMPC] - Missing connection for port 'Q_n'.
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'FF0'.  Expected 4, found 3.
+#    Time: 0 ps  Iteration: 0  Instance: /test_tb/test/FF0 File: D:/IcDesign_Projects/Modelsim/Latch_Flip-Flop/Compare_storage_element.v Line: 13
+# ** Warning: (vsim-3722) D:/IcDesign_Projects/Modelsim/Latch_Flip-Flop/Compare_storage_element.v(13): [TFMPC] - Missing connection for port 'Q_n'.
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'FF1'.  Expected 4, found 3.
+#    Time: 0 ps  Iteration: 0  Instance: /test_tb/test/FF1 File: D:/IcDesign_Projects/Modelsim/Latch_Flip-Flop/Compare_storage_element.v Line: 19
+# ** Warning: (vsim-3722) D:/IcDesign_Projects/Modelsim/Latch_Flip-Flop/Compare_storage_element.v(19): [TFMPC] - Missing connection for port 'Q_n'.
+# WARNING: No extended dataflow license exists
+add wave -position insertpoint  \
+sim:/test_tb/clk \
+sim:/test_tb/D \
+sim:/test_tb/Q_latch \
+sim:/test_tb/Q_FF_pos \
+sim:/test_tb/Q_FF_neg
+run
+quit -sim
+# End time: 17:38:50 on Aug 19,2025, Elapsed time: 0:00:34
+# Errors: 0, Warnings: 8

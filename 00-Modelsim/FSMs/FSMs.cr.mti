@@ -1,0 +1,29 @@
+D:/IcDesign_Projects/Modelsim/FSMs/moore_011_detector.v {1 {vlog -work work -stats=none {D:\IcDesign_Projects\Modelsim\FSMs\moore_011_detector.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module moore_011_detector
+
+Top level modules:
+	moore_011_detector
+
+} {} {}} D:/IcDesign_Projects/Modelsim/FSMs/X_011_detector.v {1 {vlog -work work -stats=none {D:\IcDesign_Projects\Modelsim\FSMs\X_011_detector.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module x_011_detector_tb
+
+Top level modules:
+	x_011_detector_tb
+
+} {} {}} D:/IcDesign_Projects/Modelsim/FSMs/moore_3FF_011_detector.v {1 {vlog -work work -stats=none {D:\IcDesign_Projects\Modelsim\FSMs\moore_3FF_011_detector.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module moore_3ff_011_detector
+
+Top level modules:
+	moore_3ff_011_detector
+
+} {} {}} D:/IcDesign_Projects/Modelsim/FSMs/mealy_011_detector.v {1 {vlog -work work -stats=none {D:\IcDesign_Projects\Modelsim\FSMs\mealy_011_detector.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mealy_011_detector
+
+Top level modules:
+	mealy_011_detector
+
+} {} {}}

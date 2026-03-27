@@ -1,0 +1,103 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vmealy_011_detector
+Z0 !s110 1756552009
+!i10b 1
+!s100 CENe3gnkA36en@Ho4b`2h0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IR2Ci1`RJ;P?8R7Y]AAl1n3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/IcDesign_Projects/Modelsim/FSMs
+w1756551843
+8D:\IcDesign_Projects\Modelsim\FSMs\mealy_011_detector.v
+FD:\IcDesign_Projects\Modelsim\FSMs\mealy_011_detector.v
+!i122 3
+Z4 L0 1 30
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1756552009.000000
+!s107 D:\IcDesign_Projects\Modelsim\FSMs\mealy_011_detector.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\Modelsim\FSMs\mealy_011_detector.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+vmoore_011_detector
+R0
+!i10b 1
+!s100 g0ENE2;QoX>c1`;2O`doG1
+R1
+I]]HXWHS?D=<^;@GLROH6f0
+R2
+R3
+w1756551857
+8D:\IcDesign_Projects\Modelsim\FSMs\moore_011_detector.v
+FD:\IcDesign_Projects\Modelsim\FSMs\moore_011_detector.v
+!i122 4
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:\IcDesign_Projects\Modelsim\FSMs\moore_011_detector.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\Modelsim\FSMs\moore_011_detector.v|
+!i113 1
+R7
+R8
+vmoore_3ff_011_detector
+R0
+!i10b 1
+!s100 F]mzeazPQIFC=]X]Em@n;2
+R1
+I7Td3j1]GSfmC0iNmADCGN0
+R2
+R3
+w1756551870
+8D:\IcDesign_Projects\Modelsim\FSMs\moore_3FF_011_detector.v
+FD:\IcDesign_Projects\Modelsim\FSMs\moore_3FF_011_detector.v
+!i122 5
+L0 1 31
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:\IcDesign_Projects\Modelsim\FSMs\moore_3FF_011_detector.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\Modelsim\FSMs\moore_3FF_011_detector.v|
+!i113 1
+R7
+R8
+vx_011_detector_tb
+R0
+!i10b 1
+!s100 QkPUzJdJzhko>Id;^]SK_1
+R1
+I[NKiCbe?MRX@0adeB`GV>1
+R2
+R3
+w1756551995
+8D:\IcDesign_Projects\Modelsim\FSMs\X_011_detector.v
+FD:\IcDesign_Projects\Modelsim\FSMs\X_011_detector.v
+!i122 6
+L0 1 78
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:\IcDesign_Projects\Modelsim\FSMs\X_011_detector.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\Modelsim\FSMs\X_011_detector.v|
+!i113 1
+R7
+R8

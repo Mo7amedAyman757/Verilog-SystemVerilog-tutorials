@@ -1,0 +1,241 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/IcDesign_Projects/Modelsim/ModelingCoding
+vregister_4bits
+Z0 !s110 1755768088
+!i10b 1
+!s100 A6<FbjlmIo9Re4o?Al[P=3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IklBWINHZF^6bcBe]WZnWR0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/IcDesign_Projects/Modelsim/Registers
+w1755767288
+8D:\IcDesign_Projects\Modelsim\Registers\register_4bits.v
+FD:\IcDesign_Projects\Modelsim\Registers\register_4bits.v
+!i122 20
+L0 1 24
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1755768088.000000
+!s107 D:\IcDesign_Projects\Modelsim\Registers\register_4bits.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\Modelsim\Registers\register_4bits.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vregister_4bits_load
+R0
+!i10b 1
+!s100 LAiVm3F:io[H14glQMC>B2
+R1
+II^WC1f_JjlW0kkjUA0eTO3
+R2
+R3
+w1755767436
+8D:\IcDesign_Projects\Modelsim\Registers\register_4bits_load.v
+FD:\IcDesign_Projects\Modelsim\Registers\register_4bits_load.v
+!i122 22
+L0 1 28
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:\IcDesign_Projects\Modelsim\Registers\register_4bits_load.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\Modelsim\Registers\register_4bits_load.v|
+!i113 1
+R6
+R7
+vregister_4bits_load_tb
+R0
+!i10b 1
+!s100 Y?6igM]]m:Oeb4@2oo`?60
+R1
+IiG<:I6m6M``[k;YM<2Gd_3
+R2
+R3
+w1755767450
+8D:\IcDesign_Projects\Modelsim\Registers\register_4bits_load_tb.v
+FD:\IcDesign_Projects\Modelsim\Registers\register_4bits_load_tb.v
+!i122 23
+L0 1 54
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:\IcDesign_Projects\Modelsim\Registers\register_4bits_load_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\Modelsim\Registers\register_4bits_load_tb.v|
+!i113 1
+R6
+R7
+vregister_4bits_tb
+R0
+!i10b 1
+!s100 <@jYUgoHReGbNJ]dnNIEi3
+R1
+IXiHKeLDNeHH9oV6@1b?^?1
+R2
+R3
+w1755767302
+8D:\IcDesign_Projects\Modelsim\Registers\registers_4bits_tb.v
+FD:\IcDesign_Projects\Modelsim\Registers\registers_4bits_tb.v
+!i122 21
+L0 1 52
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:\IcDesign_Projects\Modelsim\Registers\registers_4bits_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\Modelsim\Registers\registers_4bits_tb.v|
+!i113 1
+R6
+R7
+vshift_register_4bits
+R0
+!i10b 1
+!s100 kaY8jA7k9]_]9`XeP??3]1
+R1
+II`DXL[[YNzD3gM1nV9k<72
+R2
+R3
+w1755767893
+8D:\IcDesign_Projects\Modelsim\Registers\shift_register_4bits.v
+FD:\IcDesign_Projects\Modelsim\Registers\shift_register_4bits.v
+!i122 26
+L0 1 25
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:\IcDesign_Projects\Modelsim\Registers\shift_register_4bits.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\Modelsim\Registers\shift_register_4bits.v|
+!i113 1
+R6
+R7
+vshift_register_4bits_load
+R0
+!i10b 1
+!s100 92=PSeO<ld8?kH`aiVR3i1
+R1
+IT8lEPaQ^[^9iRA9LB?TCD0
+R2
+R3
+w1755767674
+8D:\IcDesign_Projects\Modelsim\Registers\shift_register_4bits_load.v
+FD:\IcDesign_Projects\Modelsim\Registers\shift_register_4bits_load.v
+!i122 24
+L0 1 37
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:\IcDesign_Projects\Modelsim\Registers\shift_register_4bits_load.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\Modelsim\Registers\shift_register_4bits_load.v|
+!i113 1
+R6
+R7
+vshift_register_4bits_load_tb
+R0
+!i10b 1
+!s100 d>273FY0lWNeH2;`ODVeM2
+R1
+IA>0R?[ZeU=@?;g0nL=F5o1
+R2
+R3
+w1755767690
+8D:\IcDesign_Projects\Modelsim\Registers\shift_register_4bits_load_tb.v
+FD:\IcDesign_Projects\Modelsim\Registers\shift_register_4bits_load_tb.v
+!i122 25
+L0 1 73
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:\IcDesign_Projects\Modelsim\Registers\shift_register_4bits_load_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\Modelsim\Registers\shift_register_4bits_load_tb.v|
+!i113 1
+R6
+R7
+vshift_register_4bits_tb
+Z8 !s110 1755768089
+!i10b 1
+!s100 zMHh]l3F12Wm0Ui4^F77g3
+R1
+IHQLj1Cza8`=P7YN>Q<5Ul0
+R2
+R3
+w1755767908
+8D:\IcDesign_Projects\Modelsim\Registers\shift_register_4bits_tb.v
+FD:\IcDesign_Projects\Modelsim\Registers\shift_register_4bits_tb.v
+!i122 27
+L0 1 47
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:\IcDesign_Projects\Modelsim\Registers\shift_register_4bits_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\Modelsim\Registers\shift_register_4bits_tb.v|
+!i113 1
+R6
+R7
+vuniv_shift_reg
+R8
+!i10b 1
+!s100 AeKLQK<XOeHSX23M=H4[V0
+R1
+If]Kmn9;?6gm:hDBYX[=Wh3
+R2
+R3
+w1755768066
+8D:\IcDesign_Projects\Modelsim\Registers\univ_shift_register.v
+FD:\IcDesign_Projects\Modelsim\Registers\univ_shift_register.v
+!i122 28
+L0 1 38
+R4
+r1
+!s85 0
+31
+Z9 !s108 1755768089.000000
+!s107 D:\IcDesign_Projects\Modelsim\Registers\univ_shift_register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\Modelsim\Registers\univ_shift_register.v|
+!i113 1
+R6
+R7
+vuniv_shift_register_tb
+R8
+!i10b 1
+!s100 AjDc^mBlBF0HT]hQC?oN23
+R1
+IBMB6n^0K;V>h39a31<0Sb0
+R2
+R3
+w1755768082
+8D:\IcDesign_Projects\Modelsim\Registers\univ_shift_register_tb.v
+FD:\IcDesign_Projects\Modelsim\Registers\univ_shift_register_tb.v
+!i122 29
+L0 1 66
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:\IcDesign_Projects\Modelsim\Registers\univ_shift_register_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\Modelsim\Registers\univ_shift_register_tb.v|
+!i113 1
+R6
+R7

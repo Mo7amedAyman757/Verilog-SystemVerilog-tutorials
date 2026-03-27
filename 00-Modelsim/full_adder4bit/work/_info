@@ -1,0 +1,80 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vadder_nbit
+Z0 !s110 1754928067
+!i10b 1
+!s100 ZDODBY76SXQZ?3KZ>8Ll11
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I@9bSkF`aUDFSmnknDB0;m0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/IcDesign_Projects/Modelsim/full_adder4bit
+w1754928059
+8D:\IcDesign_Projects\Modelsim\full_adder4bit\full_adder4bit.v
+FD:\IcDesign_Projects\Modelsim\full_adder4bit\full_adder4bit.v
+!i122 2
+L0 1 28
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1754928067.000000
+!s107 D:\IcDesign_Projects\Modelsim\full_adder4bit\full_adder4bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\Modelsim\full_adder4bit\full_adder4bit.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vfull_adder
+R0
+!i10b 1
+!s100 3^oRT:=cMCG@V`Y>6EP:I1
+R1
+IKXKAQQBXJ54MoS_2c<S2M3
+R2
+R3
+w1754928029
+8D:\IcDesign_Projects\Modelsim\full_adder4bit\full_adder.v
+FD:\IcDesign_Projects\Modelsim\full_adder4bit\full_adder.v
+!i122 1
+L0 1 24
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:\IcDesign_Projects\Modelsim\full_adder4bit\full_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\Modelsim\full_adder4bit\full_adder.v|
+!i113 1
+R6
+R7
+vhalf_adder
+R0
+!i10b 1
+!s100 eBHP`f5KG`do9VDl>3cZn3
+R1
+IG?LRG?HNME6Yij=cSRdWi3
+R2
+R3
+w1754928010
+8D:\IcDesign_Projects\Modelsim\full_adder4bit\half_adder.v
+FD:\IcDesign_Projects\Modelsim\full_adder4bit\half_adder.v
+!i122 0
+L0 3 9
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:\IcDesign_Projects\Modelsim\full_adder4bit\half_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\Modelsim\full_adder4bit\half_adder.v|
+!i113 1
+R6
+R7

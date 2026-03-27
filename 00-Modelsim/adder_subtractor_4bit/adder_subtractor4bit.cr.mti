@@ -1,0 +1,78 @@
+D:/IcDesign_Projects/Modelsim/adder_subtractor_4bit/full_adder4bits.v {1 {vlog -work work -stats=none D:/IcDesign_Projects/Modelsim/adder_subtractor_4bit/full_adder4bits.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder_nbit
+
+Top level modules:
+	adder_nbit
+
+} {} {}} D:/IcDesign_Projects/Modelsim/adder_subtractor_4bit/overflow.v {1 {vlog -work work -stats=none D:/IcDesign_Projects/Modelsim/adder_subtractor_4bit/overflow.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module overflow_design
+
+Top level modules:
+	overflow_design
+
+} {} {}} D:/IcDesign_Projects/Modelsim/adder_subtractor_4bit/adder_subtactor4bit.v {1 {vlog -work work -stats=none D:/IcDesign_Projects/Modelsim/adder_subtractor_4bit/adder_subtactor4bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder_subtractor_nbit
+
+Top level modules:
+	adder_subtractor_nbit
+
+} {} {}} {{D:/IcDesign_Projects/Modelsim/New folder/full_adder4bit.v}} {0 {vlog -work work {D:\IcDesign_Projects\Modelsim\New folder\full_adder4bit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 18:51:04 on Aug 11,2025
+vlog -reportprogress 300 -work work D:\IcDesign_Projects\Modelsim\New folder\full_adder4bit.v 
+-- Compiling module adder_nbit
+** Error: (vlog-13069) D:\IcDesign_Projects\Modelsim\New folder\full_adder4bit.v(29): near "EOF": syntax error, unexpected end of source code.
+End time: 18:51:04 on Aug 11,2025, Elapsed time: 0:00:00
+
+} {6.0 7.0} {}} D:/IcDesign_Projects/Modelsim/adder_subtractor_4bit/test_tb.v {1 {vlog -work work -stats=none D:/IcDesign_Projects/Modelsim/adder_subtractor_4bit/test_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module test_tb
+
+Top level modules:
+	test_tb
+
+} {} {}} {D:/IcDesign_Projects/Modelsim/New folder/full_adder.v} {1 {vlog -work work -stats=none {D:\IcDesign_Projects\Modelsim\New folder\full_adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module full_adder
+
+Top level modules:
+	full_adder
+
+} {} {}} D:/IcDesign_Projects/Modelsim/adder_subtractor_4bit/neg_sign.v {1 {vlog -work work -stats=none D:/IcDesign_Projects/Modelsim/adder_subtractor_4bit/neg_sign.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module negative_design
+
+Top level modules:
+	negative_design
+
+} {} {}} {{D:/IcDesign_Projects/Modelsim/New folder/half_adder.v}} {1 {vlog -work work {D:\IcDesign_Projects\Modelsim\New folder\half_adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 18:51:03 on Aug 11,2025
+vlog -reportprogress 300 -work work D:\IcDesign_Projects\Modelsim\New folder\half_adder.v 
+-- Compiling module half_adder
+
+Top level modules:
+	half_adder
+End time: 18:51:03 on Aug 11,2025, Elapsed time: 0:00:00
+
+} {} {}} {{D:/IcDesign_Projects/Modelsim/New folder/full_adder.v}} {1 {vlog -work work {D:\IcDesign_Projects\Modelsim\New folder\full_adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+Start time: 18:51:03 on Aug 11,2025
+vlog -reportprogress 300 -work work D:\IcDesign_Projects\Modelsim\New folder\full_adder.v 
+-- Compiling module full_adder
+
+Top level modules:
+	full_adder
+End time: 18:51:03 on Aug 11,2025, Elapsed time: 0:00:00
+
+} {} {}} D:/IcDesign_Projects/Modelsim/adder_subtractor_4bit/half_adder.v {1 {vlog -work work -stats=none {D:\IcDesign_Projects\Modelsim\adder_subtractor_4bit\half_adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module half_adder
+
+Top level modules:
+	half_adder
+
+} {} {}}

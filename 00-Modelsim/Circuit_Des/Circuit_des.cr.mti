@@ -1,0 +1,15 @@
+D:/IcDesign_Projects/Modelsim/Circuit_Des/CircuitDes.v {1 {vlog -work work -stats=none {D:\IcDesign_Projects\Modelsim\Circuit_Des\CircuitDes.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Circuit_Des
+
+Top level modules:
+	Circuit_Des
+
+} {} {}} D:/IcDesign_Projects/Modelsim/Circuit_Des/test_tb.v {1 {vlog -work work -stats=none D:/IcDesign_Projects/Modelsim/Circuit_Des/test_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module test_tb
+
+Top level modules:
+	test_tb
+
+} {} {}}

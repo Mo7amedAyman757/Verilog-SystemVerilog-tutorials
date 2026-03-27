@@ -1,0 +1,129 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vcompare_storage_element
+Z0 !s110 1755614289
+!i10b 1
+!s100 `1f1iPEbQI0D80zMHEcog3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IiQ^PYBR>9@cNeP>??=fRi2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/IcDesign_Projects/Modelsim/Latch_Flip-Flop
+w1755614285
+8D:/IcDesign_Projects/Modelsim/Latch_Flip-Flop/Compare_storage_element.v
+FD:/IcDesign_Projects/Modelsim/Latch_Flip-Flop/Compare_storage_element.v
+!i122 19
+L0 1 24
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1755614289.000000
+!s107 D:/IcDesign_Projects/Modelsim/Latch_Flip-Flop/Compare_storage_element.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/IcDesign_Projects/Modelsim/Latch_Flip-Flop/Compare_storage_element.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vD_FF_neg
+Z7 !s110 1755614288
+!i10b 1
+!s100 zMCZ4k?m6gWXT:92;E9XN2
+R1
+IFF[`d56A7n[cYm@==WDV@0
+R2
+R3
+w1755613906
+8D:/IcDesign_Projects/Modelsim/Latch_Flip-Flop/D_FF_neg.v
+FD:/IcDesign_Projects/Modelsim/Latch_Flip-Flop/D_FF_neg.v
+!i122 17
+Z8 L0 1 16
+R4
+r1
+!s85 0
+31
+Z9 !s108 1755614288.000000
+!s107 D:/IcDesign_Projects/Modelsim/Latch_Flip-Flop/D_FF_neg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/IcDesign_Projects/Modelsim/Latch_Flip-Flop/D_FF_neg.v|
+!i113 1
+R5
+R6
+n@d_@f@f_neg
+vD_FF_pos
+R7
+!i10b 1
+!s100 =AbNaI7a4PcWYI7QTkWEU0
+R1
+Ih9[Uk4cb5:UWzVTW8oNJ61
+R2
+R3
+w1755613897
+8D:/IcDesign_Projects/Modelsim/Latch_Flip-Flop/D_FF_pos.v
+FD:/IcDesign_Projects/Modelsim/Latch_Flip-Flop/D_FF_pos.v
+!i122 16
+R8
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:/IcDesign_Projects/Modelsim/Latch_Flip-Flop/D_FF_pos.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/IcDesign_Projects/Modelsim/Latch_Flip-Flop/D_FF_pos.v|
+!i113 1
+R5
+R6
+n@d_@f@f_pos
+vD_Latch
+R7
+!i10b 1
+!s100 DohRPN^]01eo::Aig`Kk60
+R1
+ID6QzaVW_H?in`I7jI]5J:0
+R2
+R3
+w1755613890
+8D:/IcDesign_Projects/Modelsim/Latch_Flip-Flop/D_Latch.v
+FD:/IcDesign_Projects/Modelsim/Latch_Flip-Flop/D_Latch.v
+!i122 15
+L0 2 18
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:/IcDesign_Projects/Modelsim/Latch_Flip-Flop/D_Latch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/IcDesign_Projects/Modelsim/Latch_Flip-Flop/D_Latch.v|
+!i113 1
+R5
+R6
+n@d_@latch
+vtest_tb
+R0
+!i10b 1
+!s100 KmNMBY>Z:]k;Ff_eiK@6J0
+R1
+I=XC]hO^5Q>ZQ`V8M:oT[=2
+R2
+R3
+w1755613985
+8D:/IcDesign_Projects/Modelsim/Latch_Flip-Flop/test_tb.v
+FD:/IcDesign_Projects/Modelsim/Latch_Flip-Flop/test_tb.v
+!i122 18
+L0 1 60
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:/IcDesign_Projects/Modelsim/Latch_Flip-Flop/test_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/IcDesign_Projects/Modelsim/Latch_Flip-Flop/test_tb.v|
+!i113 1
+R5
+R6

@@ -1,0 +1,52 @@
+# Compile of timer_parameter.v was successful.
+# Compile of timer_parameter_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.timer_parameter_tb
+# vsim -gui work.timer_parameter_tb 
+# Start time: 12:36:28 on Aug 24,2025
+# Loading work.timer_parameter_tb
+# Loading work.timer_parameter
+add wave -position insertpoint  \
+sim:/timer_parameter_tb/T \
+sim:/timer_parameter_tb/reset_n \
+sim:/timer_parameter_tb/FINAL_VALUE \
+sim:/timer_parameter_tb/enable \
+sim:/timer_parameter_tb/done \
+sim:/timer_parameter_tb/clk \
+sim:/timer_parameter_tb/BITS
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+vsim -gui work.timer_parameter_tb
+# End time: 12:37:48 on Aug 24,2025, Elapsed time: 0:01:20
+# Errors: 0, Warnings: 6
+# vsim -gui work.timer_parameter_tb 
+# Start time: 12:37:49 on Aug 24,2025
+# Loading work.timer_parameter_tb
+# Loading work.timer_parameter
+add wave -position insertpoint  \
+sim:/timer_parameter_tb/T \
+sim:/timer_parameter_tb/reset_n \
+sim:/timer_parameter_tb/FINAL_VALUE \
+sim:/timer_parameter_tb/enable \
+sim:/timer_parameter_tb/done \
+sim:/timer_parameter_tb/clk \
+sim:/timer_parameter_tb/BITS
+run
+run
+run
+# WARNING: No extended dataflow license exists
+quit -sim
+# End time: 12:42:11 on Aug 24,2025, Elapsed time: 0:04:22
+# Errors: 0, Warnings: 1
+# Break key hit
+# reading C:/intelFPGA/20.1/modelsim_ase/win32aloem/../modelsim.ini

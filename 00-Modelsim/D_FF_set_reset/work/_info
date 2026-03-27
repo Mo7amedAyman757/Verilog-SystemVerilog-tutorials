@@ -1,0 +1,105 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vD_FF_reset
+!s110 1755615685
+!i10b 1
+!s100 I]WmGKjZn]KGZ;=>75@C?2
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I[20PjccTP2T4M7Sn]4LFg1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/IcDesign_Projects/Modelsim/D_FF_set_reset
+w1755614837
+8D:/IcDesign_Projects/Modelsim/D_FF_set_reset/D_FF_reset.v
+FD:/IcDesign_Projects/Modelsim/D_FF_set_reset/D_FF_reset.v
+!i122 26
+L0 1 31
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z4 !s108 1755615685.000000
+!s107 D:/IcDesign_Projects/Modelsim/D_FF_set_reset/D_FF_reset.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/IcDesign_Projects/Modelsim/D_FF_set_reset/D_FF_reset.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@d_@f@f_reset
+vD_FF_set_reset
+Z7 !s110 1755615686
+!i10b 1
+!s100 W2B`hL8SD^]G?YQ>dk[WX1
+R0
+IGMYAHWi[K4R@fTf>FO]ib1
+R1
+R2
+w1755614847
+8D:/IcDesign_Projects/Modelsim/D_FF_set_reset/D_FF_set_reset.v
+FD:/IcDesign_Projects/Modelsim/D_FF_set_reset/D_FF_set_reset.v
+!i122 27
+L0 2 33
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/IcDesign_Projects/Modelsim/D_FF_set_reset/D_FF_set_reset.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/IcDesign_Projects/Modelsim/D_FF_set_reset/D_FF_set_reset.v|
+!i113 1
+R5
+R6
+n@d_@f@f_set_reset
+vtest1_tb
+R7
+!i10b 1
+!s100 V^IG9[R=HGAU]V>S8ACYl2
+R0
+I2mhn:J88:A;6nR59o:KGH3
+R1
+R2
+w1755614861
+8D:/IcDesign_Projects/Modelsim/D_FF_set_reset/test1_tb.v
+FD:/IcDesign_Projects/Modelsim/D_FF_set_reset/test1_tb.v
+!i122 28
+L0 2 57
+R3
+r1
+!s85 0
+31
+Z8 !s108 1755615686.000000
+!s107 D:/IcDesign_Projects/Modelsim/D_FF_set_reset/test1_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/IcDesign_Projects/Modelsim/D_FF_set_reset/test1_tb.v|
+!i113 1
+R5
+R6
+vtest2_tb
+R7
+!i10b 1
+!s100 8P[>6[i5Q@GS0HdBOC9H13
+R0
+IVD[aLNUdKOO<gF[_AzJbK0
+R1
+R2
+w1755615670
+8D:\IcDesign_Projects\Modelsim\D_FF_set_reset\test2_tb.v
+FD:\IcDesign_Projects\Modelsim\D_FF_set_reset\test2_tb.v
+!i122 29
+L0 1 65
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:\IcDesign_Projects\Modelsim\D_FF_set_reset\test2_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\Modelsim\D_FF_set_reset\test2_tb.v|
+!i113 1
+R5
+R6

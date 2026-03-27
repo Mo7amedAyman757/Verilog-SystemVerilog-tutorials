@@ -1,0 +1,15 @@
+D:/IcDesign_Projects/Modelsim/Encoder/Priority_Encoder_generic.v {1 {vlog -work work -stats=none {D:\IcDesign_Projects\Modelsim\Encoder\Priority_Encoder_generic.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module priority_encoder_generic
+
+Top level modules:
+	priority_encoder_generic
+
+} {} {}} D:/IcDesign_Projects/Modelsim/Mux/test_tb.v {1 {vlog -work work -stats=none {D:\IcDesign_Projects\Modelsim\Mux\test_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module test_tb
+
+Top level modules:
+	test_tb
+
+} {} {}}

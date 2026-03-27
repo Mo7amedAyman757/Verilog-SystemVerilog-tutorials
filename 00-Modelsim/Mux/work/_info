@@ -1,0 +1,58 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/IcDesign_Projects/Modelsim/GrayToBinary
+vMux_generic
+Z0 !s110 1755040789
+!i10b 1
+!s100 PZB]f7kkiWG@KMbS[Hfm>3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IGbQ2RVP2HDlLOAAXoX]hD1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/IcDesign_Projects/Modelsim/Mux
+w1755040770
+8D:\IcDesign_Projects\Modelsim\Mux\mux_generic.v
+FD:\IcDesign_Projects\Modelsim\Mux\mux_generic.v
+!i122 0
+L0 1 18
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1755040789.000000
+!s107 D:\IcDesign_Projects\Modelsim\Mux\mux_generic.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\Modelsim\Mux\mux_generic.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@mux_generic
+vtest_tb
+R0
+!i10b 1
+!s100 ?;d13PLRMLKF?gYRcNGk52
+R1
+Ib0P;>zlbh8N2Yo79i7`]b2
+R2
+R3
+w1755040782
+8D:\IcDesign_Projects\Modelsim\Mux\test_tb.v
+FD:\IcDesign_Projects\Modelsim\Mux\test_tb.v
+!i122 1
+L0 1 63
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:\IcDesign_Projects\Modelsim\Mux\test_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\Modelsim\Mux\test_tb.v|
+!i113 1
+R6
+R7

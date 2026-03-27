@@ -1,0 +1,29 @@
+{D:/IcDesign_Projects/Modelsim/Modulus counter/mod_counter_hardcoded.v} {1 {vlog -work work -stats=none {D:\IcDesign_Projects\Modelsim\Modulus counter\mod_counter_hardcoded.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mod_counter_hardcoded
+
+Top level modules:
+	mod_counter_hardcoded
+
+} {} {}} {D:/IcDesign_Projects/Modelsim/Modulus counter/mod_counter_hardcoded_tb.v} {1 {vlog -work work -stats=none {D:\IcDesign_Projects\Modelsim\Modulus counter\mod_counter_hardcoded_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mod_counter_hardcoded_tb
+
+Top level modules:
+	mod_counter_hardcoded_tb
+
+} {} {}} {D:/IcDesign_Projects/Modelsim/Modulus counter/mod_counter_input.v} {1 {vlog -work work -stats=none {D:\IcDesign_Projects\Modelsim\Modulus counter\mod_counter_input.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mod_counter_input
+
+Top level modules:
+	mod_counter_input
+
+} {} {}} {D:/IcDesign_Projects/Modelsim/Modulus counter/mod_counter_input_tb.v} {1 {vlog -work work -stats=none {D:\IcDesign_Projects\Modelsim\Modulus counter\mod_counter_input_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mod_counter_input_tb
+
+Top level modules:
+	mod_counter_input_tb
+
+} {} {}}

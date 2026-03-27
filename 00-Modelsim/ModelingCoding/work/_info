@@ -1,0 +1,58 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/IcDesign_Projects/Modelsim/D_FF_set_reset
+vCircuit_Des
+Z0 !s110 1755617027
+!i10b 1
+!s100 8Ec8793:D1kV<8I^HfKYT0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ie9RaReZnV1]f7[BIRglcG2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/IcDesign_Projects/Modelsim/ModelingCoding
+w1755616805
+8D:\IcDesign_Projects\Modelsim\ModelingCoding\Circuit_Des.v
+FD:\IcDesign_Projects\Modelsim\ModelingCoding\Circuit_Des.v
+!i122 7
+L0 1 29
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1755617027.000000
+!s107 D:\IcDesign_Projects\Modelsim\ModelingCoding\Circuit_Des.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\Modelsim\ModelingCoding\Circuit_Des.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@circuit_@des
+vtest_tb
+R0
+!i10b 1
+!s100 g<maSHA1ZDHDGDVWJCDMA2
+R1
+Ig=D@[aMaC:Y_NDZE9JAoa2
+R2
+R3
+w1755617024
+8D:\IcDesign_Projects\Modelsim\ModelingCoding\test_tb.v
+FD:\IcDesign_Projects\Modelsim\ModelingCoding\test_tb.v
+!i122 8
+L0 1 57
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:\IcDesign_Projects\Modelsim\ModelingCoding\test_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\Modelsim\ModelingCoding\test_tb.v|
+!i113 1
+R6
+R7

@@ -1,0 +1,36 @@
+D:/IcDesign_Projects/Modelsim/Asynch_Synch_counter/Synch_counter.v {1 {vlog -work work -stats=none {D:\IcDesign_Projects\Modelsim\Asynch_Synch_counter\Synch_counter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Synch_counter
+
+Top level modules:
+	Synch_counter
+
+} {} {}} D:/IcDesign_Projects/Modelsim/Asynch_Synch_counter/Synch_counter_tb.v {1 {vlog -work work -stats=none {D:\IcDesign_Projects\Modelsim\Asynch_Synch_counter\Synch_counter_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Synch_counter_tb
+
+Top level modules:
+	Synch_counter_tb
+
+} {} {}} D:/IcDesign_Projects/Modelsim/Asynch_Synch_counter/Asynch_counter.v {1 {vlog -work work -stats=none {D:\IcDesign_Projects\Modelsim\Asynch_Synch_counter\Asynch_counter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Asynch_counter
+
+Top level modules:
+	Asynch_counter
+
+} {} {}} D:/IcDesign_Projects/Modelsim/Asynch_Synch_counter/Asynch_counter_tb.v {1 {vlog -work work -stats=none {D:\IcDesign_Projects\Modelsim\Asynch_Synch_counter\Asynch_counter_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Asynch_counter_tb
+
+Top level modules:
+	Asynch_counter_tb
+
+} {} {}} D:/IcDesign_Projects/Modelsim/Asynch_Synch_counter/T_FF.v {1 {vlog -work work -stats=none {D:\IcDesign_Projects\Modelsim\Asynch_Synch_counter\T_FF.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module T_FF
+
+Top level modules:
+	T_FF
+
+} {} {}}

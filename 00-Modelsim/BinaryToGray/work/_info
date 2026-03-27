@@ -1,0 +1,58 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/IcDesign_Projects/Modelsim/adder_subtractor_4bit
+vBitoGr
+Z0 !s110 1755038526
+!i10b 1
+!s100 Jn;T;VhF8oMU8V?8K4izL1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IO_CZ]BdCfhcZL3SZ7EObi3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/IcDesign_Projects/Modelsim/BinaryToGray
+w1755038498
+8D:\IcDesign_Projects\Modelsim\BinaryToGray\BinaryToGray.v
+FD:\IcDesign_Projects\Modelsim\BinaryToGray\BinaryToGray.v
+!i122 0
+L0 1 16
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1755038526.000000
+!s107 D:\IcDesign_Projects\Modelsim\BinaryToGray\BinaryToGray.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\Modelsim\BinaryToGray\BinaryToGray.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@bito@gr
+vtest_tb
+R0
+!i10b 1
+!s100 C@iT=kbC<mjXMcgYe0`?N1
+R1
+Id?m1;DV?8M@i70VDXe^^]2
+R2
+R3
+w1755038517
+8D:\IcDesign_Projects\Modelsim\BinaryToGray\test_tb.v
+FD:\IcDesign_Projects\Modelsim\BinaryToGray\test_tb.v
+!i122 1
+L0 1 33
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:\IcDesign_Projects\Modelsim\BinaryToGray\test_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\Modelsim\BinaryToGray\test_tb.v|
+!i113 1
+R6
+R7

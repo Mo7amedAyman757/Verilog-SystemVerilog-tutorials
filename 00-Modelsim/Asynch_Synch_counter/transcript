@@ -1,0 +1,87 @@
+# Compile of up_counter.v was successful.
+# Compile of up_counter_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.up_counter_tb
+# vsim -gui work.up_counter_tb 
+# Start time: 14:52:27 on Aug 21,2025
+# Loading work.up_counter_tb
+# Loading work.Up_counter
+add wave -position insertpoint  \
+sim:/up_counter_tb/T \
+sim:/up_counter_tb/reset_n \
+sim:/up_counter_tb/Q \
+sim:/up_counter_tb/clk \
+sim:/up_counter_tb/BITS
+run
+run
+# ** Note: $stop    : D:/IcDesign_Projects/Modelsim/Up_Down_counter/up_counter_tb.v(22)
+#    Time: 200 ps  Iteration: 0  Instance: /up_counter_tb
+# Break in Module up_counter_tb at D:/IcDesign_Projects/Modelsim/Up_Down_counter/up_counter_tb.v line 22
+quit -sim
+# End time: 14:52:56 on Aug 21,2025, Elapsed time: 0:00:29
+# Errors: 0, Warnings: 6
+# Compile of up_counter.v was successful.
+# Compile of up_counter_tb.v was successful.
+# Compile of up_down_counter.v was successful.
+# Compile of up_down_counter_tb.v failed with 3 errors.
+# 4 compiles, 1 failed with 3 errors.
+# Compile of up_counter.v was successful.
+# Compile of up_counter_tb.v was successful.
+# Compile of up_down_counter.v was successful.
+# Compile of up_down_counter_tb.v was successful.
+# 4 compiles, 0 failed with no errors.
+vsim -gui work.up_down_counter_tb
+# vsim -gui work.up_down_counter_tb 
+# Start time: 15:16:10 on Aug 21,2025
+# Loading work.up_down_counter_tb
+# Loading work.up_down_counter
+add wave -position insertpoint  \
+sim:/up_down_counter_tb/up \
+sim:/up_down_counter_tb/T \
+sim:/up_down_counter_tb/reset_n \
+sim:/up_down_counter_tb/Q \
+sim:/up_down_counter_tb/enable \
+sim:/up_down_counter_tb/clk \
+sim:/up_down_counter_tb/BITS
+run
+run
+# ** Note: $stop    : D:/IcDesign_Projects/Modelsim/Up_Down_counter/up_down_counter_tb.v(23)
+#    Time: 200 ps  Iteration: 0  Instance: /up_down_counter_tb
+# Break in Module up_down_counter_tb at D:/IcDesign_Projects/Modelsim/Up_Down_counter/up_down_counter_tb.v line 23
+quit -sim
+# End time: 15:16:35 on Aug 21,2025, Elapsed time: 0:00:25
+# Errors: 0, Warnings: 5
+# Compile of up_counter.v was successful.
+# Compile of up_counter_tb.v was successful.
+# Compile of up_down_counter.v was successful.
+# Compile of up_down_counter_tb.v was successful.
+# Compile of udl_counter.v was successful.
+# Compile of udl_counter_tb.v was successful.
+# 6 compiles, 0 failed with no errors.
+vsim -gui work.udl_counter_tb
+# vsim -gui work.udl_counter_tb 
+# Start time: 15:33:23 on Aug 21,2025
+# Loading work.udl_counter_tb
+# Loading work.udl_counter
+add wave -position insertpoint  \
+sim:/udl_counter_tb/up \
+sim:/udl_counter_tb/T \
+sim:/udl_counter_tb/reset_n \
+sim:/udl_counter_tb/Q \
+sim:/udl_counter_tb/load \
+sim:/udl_counter_tb/I \
+sim:/udl_counter_tb/enable \
+sim:/udl_counter_tb/clk \
+sim:/udl_counter_tb/BITS
+run
+run
+# WARNING: No extended dataflow license exists
+run
+quit -sim
+# End time: 15:34:39 on Aug 21,2025, Elapsed time: 0:01:16
+# Errors: 0, Warnings: 4
+# Break key hit
+# Break key hit
+# Break key hit
+# reading C:/intelFPGA/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project modulus counter

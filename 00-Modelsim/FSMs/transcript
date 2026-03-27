@@ -1,0 +1,116 @@
+# Compile of mealy_101_detector.v was successful.
+# Compile of moore_101_detector.v was successful.
+# Compile of x_101_detector_tb.vhd was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui work.x_101_detector_tb
+# vsim -gui work.x_101_detector_tb 
+# Start time: 14:39:19 on Aug 30,2025
+# Loading work.x_101_detector_tb
+# Loading work.moore_101_detector
+# Loading work.mealy_101_detector
+add wave -position insertpoint  \
+sim:/x_101_detector_tb/y_moore \
+sim:/x_101_detector_tb/y_mealy \
+sim:/x_101_detector_tb/x \
+sim:/x_101_detector_tb/T \
+sim:/x_101_detector_tb/reset_n \
+sim:/x_101_detector_tb/clk
+run
+run
+# ** Note: $finish    : D:/IcDesign_Projects/Modelsim/Design_FSMs/x_101_detector_tb.vhd(56)
+#    Time: 162 ps  Iteration: 0  Instance: /x_101_detector_tb
+# 1
+# Break in Module x_101_detector_tb at D:/IcDesign_Projects/Modelsim/Design_FSMs/x_101_detector_tb.vhd line 56
+quit -sim
+# End time: 14:40:29 on Aug 30,2025, Elapsed time: 0:01:10
+# Errors: 0, Warnings: 9
+# reading C:/intelFPGA/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project Complex_FSMs
+# Compile of FSMs_1.v was successful.
+# Compile of FSMs_1_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.FSMs_1_tb
+# vsim -gui work.FSMs_1_tb 
+# Start time: 15:34:48 on Aug 30,2025
+# Loading work.FSMs_1_tb
+# Loading work.FSMs_1
+add wave -position insertpoint  \
+sim:/FSMs_1_tb/y \
+sim:/FSMs_1_tb/x \
+sim:/FSMs_1_tb/T \
+sim:/FSMs_1_tb/reset_n \
+sim:/FSMs_1_tb/clk
+run
+# Break key hit
+quit -sim
+# End time: 15:35:35 on Aug 30,2025, Elapsed time: 0:00:47
+# Errors: 0, Warnings: 8
+# Compile of FSMs_2.v was successful.
+# Compile of FSMs_2_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.FSMs_2_tb
+# vsim -gui work.FSMs_2_tb 
+# Start time: 15:56:10 on Aug 30,2025
+# Loading work.FSMs_2_tb
+# Loading work.FSMs_2
+add wave -position insertpoint  \
+sim:/FSMs_2_tb/y \
+sim:/FSMs_2_tb/x \
+sim:/FSMs_2_tb/T \
+sim:/FSMs_2_tb/reset_n \
+sim:/FSMs_2_tb/clk
+run
+run
+# ** Note: $finish    : D:/IcDesign_Projects/Modelsim/Complex_FSMs/FSMs_2_tb.v(50)
+#    Time: 172 ps  Iteration: 0  Instance: /FSMs_2_tb
+# 1
+# Break in Module FSMs_2_tb at D:/IcDesign_Projects/Modelsim/Complex_FSMs/FSMs_2_tb.v line 50
+quit -sim
+# End time: 15:56:57 on Aug 30,2025, Elapsed time: 0:00:47
+# Errors: 0, Warnings: 4
+# reading C:/intelFPGA/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project counter_FSMs
+# Compile of counter_FSMs.v was successful.
+# Compile of counter_FSMs_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.counter_FSMs_tb
+# vsim -gui work.counter_FSMs_tb 
+# Start time: 16:11:11 on Aug 30,2025
+# Loading work.counter_FSMs_tb
+# Loading work.counter_FSMs
+add wave -position insertpoint  \
+sim:/counter_FSMs_tb/T \
+sim:/counter_FSMs_tb/reset_n \
+sim:/counter_FSMs_tb/num \
+sim:/counter_FSMs_tb/en \
+sim:/counter_FSMs_tb/clk
+run
+quit -sim
+# End time: 16:11:45 on Aug 30,2025, Elapsed time: 0:00:34
+# Errors: 0, Warnings: 8
+# Compile of arbitrary_counter_FSMs.v was successful.
+# Compile of arbitrary_counter_FSMs_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.counter_FSMs_tb
+# vsim -gui work.counter_FSMs_tb 
+# Start time: 16:12:18 on Aug 30,2025
+# Loading work.counter_FSMs_tb
+# Loading work.counter_FSMs
+vsim -gui work.arbitrary_counter_FSMs_tb
+# End time: 16:12:26 on Aug 30,2025, Elapsed time: 0:00:08
+# Errors: 0, Warnings: 2
+# vsim -gui work.arbitrary_counter_FSMs_tb 
+# Start time: 16:12:26 on Aug 30,2025
+# Loading work.arbitrary_counter_FSMs_tb
+# Loading work.arbitrary_counter_FSMs
+add wave -position insertpoint  \
+sim:/arbitrary_counter_FSMs_tb/T \
+sim:/arbitrary_counter_FSMs_tb/reset_n \
+sim:/arbitrary_counter_FSMs_tb/num \
+sim:/arbitrary_counter_FSMs_tb/en \
+sim:/arbitrary_counter_FSMs_tb/clk
+run
+quit -sim
+# End time: 16:12:59 on Aug 30,2025, Elapsed time: 0:00:33
+# Errors: 0, Warnings: 1
+# reading C:/intelFPGA/20.1/modelsim_ase/win32aloem/../modelsim.ini

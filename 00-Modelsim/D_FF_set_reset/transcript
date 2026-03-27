@@ -1,0 +1,51 @@
+project open D:/IcDesign_Projects/Modelsim/D_FF_set_reset/D_FF_set_reset
+# Compile of D_FF_reset.v was successful.
+# Compile of D_FF_set_reset.v was successful.
+# Compile of test1_tb.v was successful.
+# Compile of test2_tb.v was successful.
+# 4 compiles, 0 failed with no errors.
+vsim -gui work.test2_tb
+# vsim -gui work.test2_tb 
+# Start time: 17:58:22 on Aug 19,2025
+# Loading work.test2_tb
+# Loading work.D_FF_set_reset
+add wave -position insertpoint  \
+sim:/test2_tb/set_n \
+sim:/test2_tb/reset_n \
+sim:/test2_tb/Q \
+sim:/test2_tb/D \
+sim:/test2_tb/clk
+run
+# Compile of D_FF_reset.v was successful.
+# Compile of D_FF_set_reset.v was successful.
+# Compile of test1_tb.v was successful.
+# Compile of test2_tb.v was successful.
+# 4 compiles, 0 failed with no errors.
+quit -sim
+# End time: 18:01:23 on Aug 19,2025, Elapsed time: 0:03:01
+# Errors: 0, Warnings: 3
+# Compile of D_FF_reset.v was successful.
+# Compile of D_FF_set_reset.v was successful.
+# Compile of test1_tb.v was successful.
+# Compile of test2_tb.v was successful.
+# 4 compiles, 0 failed with no errors.
+vsim -gui work.test2_tb
+# vsim -gui work.test2_tb 
+# Start time: 18:01:35 on Aug 19,2025
+# Loading work.test2_tb
+# Loading work.D_FF_set_reset
+add wave -position insertpoint  \
+sim:/test2_tb/set_n \
+sim:/test2_tb/reset_n \
+sim:/test2_tb/Q \
+sim:/test2_tb/D \
+sim:/test2_tb/clk
+run
+run
+# ** Note: $stop    : D:/IcDesign_Projects/Modelsim/D_FF_set_reset/test2_tb.v(60)
+#    Time: 200 ps  Iteration: 0  Instance: /test2_tb
+# Break in Module test2_tb at D:/IcDesign_Projects/Modelsim/D_FF_set_reset/test2_tb.v line 60
+run
+quit -sim
+# End time: 18:02:53 on Aug 19,2025, Elapsed time: 0:01:18
+# Errors: 0, Warnings: 2

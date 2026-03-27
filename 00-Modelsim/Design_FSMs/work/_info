@@ -1,0 +1,80 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/IcDesign_Projects/Modelsim/FSMs
+vmealy_101_detector
+Z0 !s110 1756553946
+!i10b 1
+!s100 ;=XnEZYW]<J_B2dQdlkz^2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I<MjbhR^_N3^HFzKg7Lmn]3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/IcDesign_Projects/Modelsim/Design_FSMs
+w1756553911
+8D:\IcDesign_Projects\Modelsim\Design_FSMs\mealy_101_detector.v
+FD:\IcDesign_Projects\Modelsim\Design_FSMs\mealy_101_detector.v
+!i122 0
+L0 1 48
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1756553946.000000
+!s107 D:\IcDesign_Projects\Modelsim\Design_FSMs\mealy_101_detector.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\Modelsim\Design_FSMs\mealy_101_detector.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vmoore_101_detector
+R0
+!i10b 1
+!s100 B;Ee[C70Q3XobKVEzhXnO2
+R1
+I:RS=cifdn3[?R=7^=n]]O2
+R2
+R3
+w1756553923
+8D:\IcDesign_Projects\Modelsim\Design_FSMs\moore_101_detector.v
+FD:\IcDesign_Projects\Modelsim\Design_FSMs\moore_101_detector.v
+!i122 1
+L0 1 53
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:\IcDesign_Projects\Modelsim\Design_FSMs\moore_101_detector.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\Modelsim\Design_FSMs\moore_101_detector.v|
+!i113 1
+R6
+R7
+vx_101_detector_tb
+!s110 1756553947
+!i10b 1
+!s100 54Y1VTaN@XX`?@:A7L_M32
+R1
+I3bIE92MM]`4f<5hYDjNk51
+R2
+R3
+w1756553940
+8D:/IcDesign_Projects/Modelsim/Design_FSMs/x_101_detector_tb.vhd
+FD:/IcDesign_Projects/Modelsim/Design_FSMs/x_101_detector_tb.vhd
+!i122 2
+L0 1 59
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/IcDesign_Projects/Modelsim/Design_FSMs/x_101_detector_tb.vhd|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/IcDesign_Projects/Modelsim/Design_FSMs/x_101_detector_tb.vhd|
+!i113 1
+R6
+R7

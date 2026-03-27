@@ -1,0 +1,58 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/IcDesign_Projects/Modelsim/BinaryToGray
+vgrTObi
+Z0 !s110 1755038901
+!i10b 1
+!s100 ;@j5oYCTTS1MY6RK8W1mT0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IDARmAGW_gI7T]kb4jCK<^3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/IcDesign_Projects/Modelsim/GrayToBinary
+w1755038826
+8D:\IcDesign_Projects\Modelsim\GrayToBinary\GrayTobinary.v
+FD:\IcDesign_Projects\Modelsim\GrayToBinary\GrayTobinary.v
+!i122 1
+L0 2 19
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1755038901.000000
+!s107 D:\IcDesign_Projects\Modelsim\GrayToBinary\GrayTobinary.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\Modelsim\GrayToBinary\GrayTobinary.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+ngr@t@obi
+vtest_tb
+R0
+!i10b 1
+!s100 NXa]g`Zk[NP91oIc9?=9D2
+R1
+I?GYMJgcdXBi5oA2CEb>_83
+R2
+R3
+w1755038896
+8D:\IcDesign_Projects\Modelsim\GrayToBinary\Test_tb.v
+FD:\IcDesign_Projects\Modelsim\GrayToBinary\Test_tb.v
+!i122 2
+L0 1 33
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:\IcDesign_Projects\Modelsim\GrayToBinary\Test_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\Modelsim\GrayToBinary\Test_tb.v|
+!i113 1
+R6
+R7

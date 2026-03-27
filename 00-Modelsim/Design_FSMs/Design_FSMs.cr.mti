@@ -1,0 +1,22 @@
+D:/IcDesign_Projects/Modelsim/Design_FSMs/x_101_detector_tb.vhd {1 {vlog -work work -stats=none D:/IcDesign_Projects/Modelsim/Design_FSMs/x_101_detector_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module x_101_detector_tb
+
+Top level modules:
+	x_101_detector_tb
+
+} {} {}} D:/IcDesign_Projects/Modelsim/Design_FSMs/moore_101_detector.v {1 {vlog -work work -stats=none {D:\IcDesign_Projects\Modelsim\Design_FSMs\moore_101_detector.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module moore_101_detector
+
+Top level modules:
+	moore_101_detector
+
+} {} {}} D:/IcDesign_Projects/Modelsim/Design_FSMs/mealy_101_detector.v {1 {vlog -work work -stats=none {D:\IcDesign_Projects\Modelsim\Design_FSMs\mealy_101_detector.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mealy_101_detector
+
+Top level modules:
+	mealy_101_detector
+
+} {} {}}

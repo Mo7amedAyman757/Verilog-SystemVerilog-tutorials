@@ -1,0 +1,172 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/IcDesign_Projects/Modelsim/New folder
+vadder_nbit
+Z0 !s110 1754928530
+!i10b 1
+!s100 ZDODBY76SXQZ?3KZ>8Ll11
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ICmf5Qah6[jf;PCX1<1U003
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/IcDesign_Projects/Modelsim/adder_subtractor_4bit
+w1754927757
+8D:/IcDesign_Projects/Modelsim/adder_subtractor_4bit/full_adder4bits.v
+FD:/IcDesign_Projects/Modelsim/adder_subtractor_4bit/full_adder4bits.v
+!i122 49
+L0 1 28
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1754928530.000000
+!s107 D:/IcDesign_Projects/Modelsim/adder_subtractor_4bit/full_adder4bits.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/IcDesign_Projects/Modelsim/adder_subtractor_4bit/full_adder4bits.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vadder_subtractor_nbit
+Z8 !s110 1754928529
+!i10b 1
+!s100 XZ[[bMd1XBTU146lmV1]G2
+R1
+IO7Q3?]C@_4<H1IKc02Sl`3
+R2
+R3
+w1754927270
+8D:/IcDesign_Projects/Modelsim/adder_subtractor_4bit/adder_subtactor4bit.v
+FD:/IcDesign_Projects/Modelsim/adder_subtractor_4bit/adder_subtactor4bit.v
+!i122 46
+L0 1 57
+R4
+r1
+!s85 0
+31
+Z9 !s108 1754928529.000000
+!s107 D:/IcDesign_Projects/Modelsim/adder_subtractor_4bit/adder_subtactor4bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/IcDesign_Projects/Modelsim/adder_subtractor_4bit/adder_subtactor4bit.v|
+!i113 1
+R6
+R7
+vfull_adder
+!s110 1754927485
+!i10b 1
+!s100 TGY:Ui@?hM=:P4o8`?YJ31
+R1
+IFciU]1RP3Dla4O^LAE7N;3
+R2
+R3
+w1754927202
+8D:\IcDesign_Projects\Modelsim\New folder\full_adder.v
+FD:\IcDesign_Projects\Modelsim\New folder\full_adder.v
+!i122 13
+L0 2 24
+R4
+r1
+!s85 0
+31
+!s108 1754927485.000000
+!s107 D:\IcDesign_Projects\Modelsim\New folder\full_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\Modelsim\New folder\full_adder.v|
+!i113 1
+R6
+R7
+vhalf_adder
+!s110 1754928531
+!i10b 1
+!s100 eBHP`f5KG`do9VDl>3cZn3
+R1
+I:XAJh^M9L<cW`cJ3a54UB3
+R2
+R3
+w1754928456
+8D:\IcDesign_Projects\Modelsim\adder_subtractor_4bit\half_adder.v
+FD:\IcDesign_Projects\Modelsim\adder_subtractor_4bit\half_adder.v
+!i122 50
+L0 3 9
+R4
+r1
+!s85 0
+31
+!s108 1754928531.000000
+!s107 D:\IcDesign_Projects\Modelsim\adder_subtractor_4bit\half_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\IcDesign_Projects\Modelsim\adder_subtractor_4bit\half_adder.v|
+!i113 1
+R6
+R7
+vnegative_design
+R0
+!i10b 1
+!s100 WRU@6GJOhbU1dSzT4E^SA3
+R1
+I7QZa?l]chHD``F4f_D3Zi3
+R2
+R3
+w1754927303
+8D:/IcDesign_Projects/Modelsim/adder_subtractor_4bit/neg_sign.v
+FD:/IcDesign_Projects/Modelsim/adder_subtractor_4bit/neg_sign.v
+!i122 48
+L0 2 8
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/IcDesign_Projects/Modelsim/adder_subtractor_4bit/neg_sign.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/IcDesign_Projects/Modelsim/adder_subtractor_4bit/neg_sign.v|
+!i113 1
+R6
+R7
+voverflow_design
+R8
+!i10b 1
+!s100 ^k][MU1T[dX_l8b7[OEVa1
+R1
+IzEn?[L^Qc]Scln:PaD2f63
+R2
+R3
+w1754927315
+8D:/IcDesign_Projects/Modelsim/adder_subtractor_4bit/overflow.v
+FD:/IcDesign_Projects/Modelsim/adder_subtractor_4bit/overflow.v
+!i122 47
+L0 2 7
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:/IcDesign_Projects/Modelsim/adder_subtractor_4bit/overflow.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/IcDesign_Projects/Modelsim/adder_subtractor_4bit/overflow.v|
+!i113 1
+R6
+R7
+vtest_tb
+R8
+!i10b 1
+!s100 >EoUBa340XMWnRjh5@_lg2
+R1
+Ie7?WZRTj`PiPhGkiMZ?kP2
+R2
+R3
+w1754928234
+8D:/IcDesign_Projects/Modelsim/adder_subtractor_4bit/test_tb.v
+FD:/IcDesign_Projects/Modelsim/adder_subtractor_4bit/test_tb.v
+!i122 45
+L0 1 54
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:/IcDesign_Projects/Modelsim/adder_subtractor_4bit/test_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/IcDesign_Projects/Modelsim/adder_subtractor_4bit/test_tb.v|
+!i113 1
+R6
+R7
