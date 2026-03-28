@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/IcDesign_Projects/FSMs/Memory_Location_Swap/Memory_swap/Memory_swap.srcs/sources_1/new/MUX_4x1_nbits.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX_4x1_nbits
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/IcDesign_Projects/FSMs/Memory_Location_Swap/Memory_swap/Memory_swap.srcs/sources_1/new/mem_reg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mem_reg
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/IcDesign_Projects/FSMs/Memory_Location_Swap/Memory_swap/Memory_swap.srcs/sources_1/new/swap_FSM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module swap_FSM
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/IcDesign_Projects/FSMs/Memory_Location_Swap/Memory_swap/Memory_swap.srcs/sources_1/new/swap_reg_file.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module swap_reg_file
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/IcDesign_Projects/FSMs/Memory_Location_Swap/Memory_swap/Memory_swap.srcs/sim_1/new/swap_memory_loc_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module swap_memory_loc_tb

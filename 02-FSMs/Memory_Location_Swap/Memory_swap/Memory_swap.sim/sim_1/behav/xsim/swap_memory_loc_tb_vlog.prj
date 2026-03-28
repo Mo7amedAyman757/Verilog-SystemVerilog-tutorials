@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "C:/Xilinx/2025.1/Vivado/data/rsb/busdef" \
+"../../../../Memory_swap.srcs/sources_1/new/MUX_4x1_nbits.v" \
+"../../../../Memory_swap.srcs/sources_1/new/mem_reg.v" \
+"../../../../Memory_swap.srcs/sources_1/new/swap_FSM.v" \
+"../../../../Memory_swap.srcs/sources_1/new/swap_reg_file.v" \
+"../../../../Memory_swap.srcs/sim_1/new/swap_memory_loc_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
