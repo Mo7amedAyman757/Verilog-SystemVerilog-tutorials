@@ -3,10 +3,10 @@
 # SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
 # IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
 # SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
-# Start of session at: Thu Apr  9 21:21:19 2026
-# Process ID         : 22408
+# Start of session at: Thu Apr  9 22:45:41 2026
+# Process ID         : 2936
 # Current directory  : D:/Career tracks/Digial_IC/07-Design_tutorial/03-project_tutorial
-# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent6080 D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.xpr
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent20820 D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.xpr
 # Log file           : D:/Career tracks/Digial_IC/07-Design_tutorial/03-project_tutorial/vivado.log
 # Journal file       : D:/Career tracks/Digial_IC/07-Design_tutorial/03-project_tutorial\vivado.jou
 # Running On         : MohamedAyman
@@ -19,7 +19,7 @@
 # Host memory        : 14877 MB
 # Swap memory        : 11811 MB
 # Total Virtual      : 26688 MB
-# Available Virtual  : 9814 MB
+# Available Virtual  : 9507 MB
 #-----------------------------------------------------------
 start_gui
 open_project {D:/Career tracks/Digial_IC/07-Design_tutorial/03-project_tutorial/project_tutorial.xpr}
@@ -95,7 +95,274 @@ WARNING: [Project 1-5713] Board part '' set for the project  is not found. Board
 INFO: [IP_Flow 19-234] Refreshing IP repositories
 INFO: [IP_Flow 19-1704] No user IP repositories specified
 INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/2025.1/Vivado/data/ip'.
-open_project: Time (s): cpu = 00:00:18 ; elapsed = 00:00:09 . Memory (MB): peak = 1741.051 ; gain = 257.465
+open_project: Time (s): cpu = 00:00:19 ; elapsed = 00:00:07 . Memory (MB): peak = 1742.828 ; gain = 181.953
 update_compile_order -fileset sources_1
+close [ open {D:/Career tracks/Digial_IC/07-Design_tutorial/03-project_tutorial/project_tutorial.srcs/sources_1/new/always_comb.sv} w ]
+add_files {{D:/Career tracks/Digial_IC/07-Design_tutorial/03-project_tutorial/project_tutorial.srcs/sources_1/new/always_comb.sv}}
+update_compile_order -fileset sources_1
+set_property top always_combs [current_fileset]
+update_compile_order -fileset sources_1
+synth_design -rtl -rtl_skip_mlo -name rtl_1
+Command: synth_design -rtl -rtl_skip_mlo -name rtl_1
+Starting synth_design
+Using part: xc7vx485tffg1157-1
+Top: always_combs
+INFO: [Device 21-403] Loading part xc7vx485tffg1157-1
+INFO: [Synth 8-7079] Multithreading enabled for synth_design using a maximum of 2 processes.
+INFO: [Synth 8-7078] Launching helper process for spawning children vivado processes
+INFO: [Synth 8-7075] Helper process launched with PID 28812
+---------------------------------------------------------------------------------
+Starting RTL Elaboration : Time (s): cpu = 00:00:07 ; elapsed = 00:00:06 . Memory (MB): peak = 2748.535 ; gain = 470.488
+---------------------------------------------------------------------------------
+INFO: [Synth 8-6157] synthesizing module 'always_combs' [D:/Career tracks/Digial_IC/07-Design_tutorial/03-project_tutorial/project_tutorial.srcs/sources_1/new/always_comb.sv:23]
+INFO: [Synth 8-226] default block is never used [D:/Career tracks/Digial_IC/07-Design_tutorial/03-project_tutorial/project_tutorial.srcs/sources_1/new/always_comb.sv:31]
+INFO: [Synth 8-6155] done synthesizing module 'always_combs' (0#1) [D:/Career tracks/Digial_IC/07-Design_tutorial/03-project_tutorial/project_tutorial.srcs/sources_1/new/always_comb.sv:23]
+---------------------------------------------------------------------------------
+Finished RTL Elaboration : Time (s): cpu = 00:00:09 ; elapsed = 00:00:08 . Memory (MB): peak = 2852.457 ; gain = 574.410
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:09 ; elapsed = 00:00:08 . Memory (MB): peak = 2852.457 ; gain = 574.410
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 1 : Time (s): cpu = 00:00:09 ; elapsed = 00:00:08 . Memory (MB): peak = 2852.457 ; gain = 574.410
+---------------------------------------------------------------------------------
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 2852.457 ; gain = 0.000
+INFO: [Project 1-570] Preparing netlist for logic optimization
+
+Processing XDC Constraints
+Initializing timing engine
+Completed Processing XDC Constraints
+
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 2901.008 ; gain = 0.000
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+RTL Elaboration Complete:  : Time (s): cpu = 00:00:25 ; elapsed = 00:00:17 . Memory (MB): peak = 3255.637 ; gain = 977.590
+9 Infos, 0 Warnings, 0 Critical Warnings and 0 Errors encountered.
+synth_design completed successfully
+synth_design: Time (s): cpu = 00:00:42 ; elapsed = 00:00:42 . Memory (MB): peak = 3255.637 ; gain = 1478.312
+close [ open {D:/Career tracks/Digial_IC/07-Design_tutorial/03-project_tutorial/project_tutorial.srcs/sources_1/new/always_latch.sv} w ]
+add_files {{D:/Career tracks/Digial_IC/07-Design_tutorial/03-project_tutorial/project_tutorial.srcs/sources_1/new/always_latch.sv}}
+update_compile_order -fileset sources_1
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_comb.sv:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_latch.sv:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_comb.sv:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_comb.sv:]
+ERROR: [Common 17-180] Spawn failed: The operation completed successfully.
+
+set_property top always_latchs [current_fileset]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_comb.sv:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_latch.sv:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_comb.sv:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_comb.sv:]
+ERROR: [Common 17-180] Spawn failed: The operation completed successfully.
+
+update_compile_order -fileset sources_1
+refresh_design
+INFO: [Synth 8-7079] Multithreading enabled for synth_design using a maximum of 2 processes.
+---------------------------------------------------------------------------------
+Starting RTL Elaboration : Time (s): cpu = 00:00:06 ; elapsed = 00:00:05 . Memory (MB): peak = 3397.215 ; gain = 127.871
+---------------------------------------------------------------------------------
+INFO: [Synth 8-6157] synthesizing module 'always_latchs' [D:/Career tracks/Digial_IC/07-Design_tutorial/03-project_tutorial/project_tutorial.srcs/sources_1/new/always_latch.sv:23]
+INFO: [Synth 8-6155] done synthesizing module 'always_latchs' (0#1) [D:/Career tracks/Digial_IC/07-Design_tutorial/03-project_tutorial/project_tutorial.srcs/sources_1/new/always_latch.sv:23]
+---------------------------------------------------------------------------------
+Finished RTL Elaboration : Time (s): cpu = 00:00:07 ; elapsed = 00:00:06 . Memory (MB): peak = 3499.066 ; gain = 229.723
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:07 ; elapsed = 00:00:06 . Memory (MB): peak = 3499.066 ; gain = 229.723
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 1 : Time (s): cpu = 00:00:07 ; elapsed = 00:00:06 . Memory (MB): peak = 3499.066 ; gain = 229.723
+---------------------------------------------------------------------------------
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.001 . Memory (MB): peak = 3499.066 ; gain = 0.000
+INFO: [Project 1-570] Preparing netlist for logic optimization
+
+Processing XDC Constraints
+Initializing timing engine
+Completed Processing XDC Constraints
+
+refresh_design: Time (s): cpu = 00:00:17 ; elapsed = 00:00:11 . Memory (MB): peak = 3499.066 ; gain = 229.723
+refresh_design
+INFO: [Synth 8-7079] Multithreading enabled for synth_design using a maximum of 2 processes.
+---------------------------------------------------------------------------------
+Starting RTL Elaboration : Time (s): cpu = 00:00:06 ; elapsed = 00:00:05 . Memory (MB): peak = 3499.066 ; gain = 0.000
+---------------------------------------------------------------------------------
+INFO: [Synth 8-6157] synthesizing module 'always_latchs' [D:/Career tracks/Digial_IC/07-Design_tutorial/03-project_tutorial/project_tutorial.srcs/sources_1/new/always_latch.sv:23]
+INFO: [Synth 8-6155] done synthesizing module 'always_latchs' (0#1) [D:/Career tracks/Digial_IC/07-Design_tutorial/03-project_tutorial/project_tutorial.srcs/sources_1/new/always_latch.sv:23]
+---------------------------------------------------------------------------------
+Finished RTL Elaboration : Time (s): cpu = 00:00:08 ; elapsed = 00:00:06 . Memory (MB): peak = 3502.676 ; gain = 3.609
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:08 ; elapsed = 00:00:06 . Memory (MB): peak = 3526.547 ; gain = 27.480
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 1 : Time (s): cpu = 00:00:08 ; elapsed = 00:00:06 . Memory (MB): peak = 3526.547 ; gain = 27.480
+---------------------------------------------------------------------------------
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 3529.105 ; gain = 0.000
+INFO: [Project 1-570] Preparing netlist for logic optimization
+
+Processing XDC Constraints
+Initializing timing engine
+Completed Processing XDC Constraints
+
+refresh_design: Time (s): cpu = 00:00:14 ; elapsed = 00:00:12 . Memory (MB): peak = 3529.105 ; gain = 30.039
+refresh_design
+INFO: [Synth 8-7079] Multithreading enabled for synth_design using a maximum of 2 processes.
+---------------------------------------------------------------------------------
+Starting RTL Elaboration : Time (s): cpu = 00:00:05 ; elapsed = 00:00:05 . Memory (MB): peak = 3529.105 ; gain = 0.000
+---------------------------------------------------------------------------------
+INFO: [Synth 8-6157] synthesizing module 'always_latchs' [D:/Career tracks/Digial_IC/07-Design_tutorial/03-project_tutorial/project_tutorial.srcs/sources_1/new/always_latch.sv:23]
+INFO: [Synth 8-6155] done synthesizing module 'always_latchs' (0#1) [D:/Career tracks/Digial_IC/07-Design_tutorial/03-project_tutorial/project_tutorial.srcs/sources_1/new/always_latch.sv:23]
+---------------------------------------------------------------------------------
+Finished RTL Elaboration : Time (s): cpu = 00:00:07 ; elapsed = 00:00:06 . Memory (MB): peak = 3529.105 ; gain = 0.000
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:07 ; elapsed = 00:00:06 . Memory (MB): peak = 3552.148 ; gain = 23.043
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 1 : Time (s): cpu = 00:00:07 ; elapsed = 00:00:06 . Memory (MB): peak = 3552.148 ; gain = 23.043
+---------------------------------------------------------------------------------
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 3554.496 ; gain = 0.000
+INFO: [Project 1-570] Preparing netlist for logic optimization
+
+Processing XDC Constraints
+Initializing timing engine
+Completed Processing XDC Constraints
+
+refresh_design: Time (s): cpu = 00:00:12 ; elapsed = 00:00:12 . Memory (MB): peak = 3600.270 ; gain = 71.164
+refresh_design
+INFO: [Synth 8-7079] Multithreading enabled for synth_design using a maximum of 2 processes.
+---------------------------------------------------------------------------------
+Starting RTL Elaboration : Time (s): cpu = 00:00:05 ; elapsed = 00:00:05 . Memory (MB): peak = 3705.172 ; gain = 50.137
+---------------------------------------------------------------------------------
+INFO: [Synth 8-6157] synthesizing module 'always_latchs' [D:/Career tracks/Digial_IC/07-Design_tutorial/03-project_tutorial/project_tutorial.srcs/sources_1/new/always_latch.sv:23]
+INFO: [Synth 8-6155] done synthesizing module 'always_latchs' (0#1) [D:/Career tracks/Digial_IC/07-Design_tutorial/03-project_tutorial/project_tutorial.srcs/sources_1/new/always_latch.sv:23]
+---------------------------------------------------------------------------------
+Finished RTL Elaboration : Time (s): cpu = 00:00:07 ; elapsed = 00:00:06 . Memory (MB): peak = 3705.172 ; gain = 50.137
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:07 ; elapsed = 00:00:06 . Memory (MB): peak = 3705.172 ; gain = 50.137
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 1 : Time (s): cpu = 00:00:07 ; elapsed = 00:00:06 . Memory (MB): peak = 3705.172 ; gain = 50.137
+---------------------------------------------------------------------------------
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 3705.172 ; gain = 0.000
+INFO: [Project 1-570] Preparing netlist for logic optimization
+
+Processing XDC Constraints
+Initializing timing engine
+Completed Processing XDC Constraints
+
+refresh_design: Time (s): cpu = 00:00:12 ; elapsed = 00:00:11 . Memory (MB): peak = 3705.172 ; gain = 50.137
+close [ open {D:/Career tracks/Digial_IC/07-Design_tutorial/03-project_tutorial/project_tutorial.srcs/sources_1/new/always_ffs.v} w ]
+add_files {{D:/Career tracks/Digial_IC/07-Design_tutorial/03-project_tutorial/project_tutorial.srcs/sources_1/new/always_ffs.v}}
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_comb.sv:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_latch.sv:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_latch.sv:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_latch.sv:]
+ERROR: [Common 17-180] Spawn failed: The operation completed successfully.
+
+update_compile_order -fileset sources_1
+set_property top always_ffs [current_fileset]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_comb.sv:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_ffs.v:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_latch.sv:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_latch.sv:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_latch.sv:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_comb.sv:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_ffs.v:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_latch.sv:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_comb.sv:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_comb.sv:]
+update_compile_order -fileset sources_1
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_comb.sv:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_ffs.v:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_latch.sv:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_latch.sv:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_latch.sv:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_comb.sv:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_ffs.v:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_latch.sv:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_ffs.v:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_ffs.v:]
+ERROR: [Common 17-180] Spawn failed: The operation completed successfully.
+
+refresh_design
+INFO: [Synth 8-7079] Multithreading enabled for synth_design using a maximum of 2 processes.
+---------------------------------------------------------------------------------
+Starting RTL Elaboration : Time (s): cpu = 00:00:06 ; elapsed = 00:00:05 . Memory (MB): peak = 3705.172 ; gain = 0.000
+---------------------------------------------------------------------------------
+ERROR: [Synth 8-2716] syntax error near '@' [D:/Career tracks/Digial_IC/07-Design_tutorial/03-project_tutorial/project_tutorial.srcs/sources_1/new/always_ffs.v:30]
+INFO: [Synth 8-10285] module 'always_ffs' is ignored due to previous errors [D:/Career tracks/Digial_IC/07-Design_tutorial/03-project_tutorial/project_tutorial.srcs/sources_1/new/always_ffs.v:40]
+INFO: [Synth 8-9084] Verilog file 'D:/Career tracks/Digial_IC/07-Design_tutorial/03-project_tutorial/project_tutorial.srcs/sources_1/new/always_ffs.v' ignored due to errors
+ERROR: [Synth 8-12188] Failed to read verilog 'D:/Career tracks/Digial_IC/07-Design_tutorial/03-project_tutorial/project_tutorial.srcs/sources_1/new/always_ffs.v'
+---------------------------------------------------------------------------------
+Finished RTL Elaboration : Time (s): cpu = 00:00:07 ; elapsed = 00:00:06 . Memory (MB): peak = 3705.172 ; gain = 0.000
+---------------------------------------------------------------------------------
+RTL Elaboration failed
+refresh_design: Time (s): cpu = 00:00:07 ; elapsed = 00:00:06 . Memory (MB): peak = 3705.172 ; gain = 0.000
+ERROR: [Common 17-39] 'refresh_design' failed due to earlier errors.
+set_property file_type SystemVerilog [get_files  {{D:/Career tracks/Digial_IC/07-Design_tutorial/03-project_tutorial/project_tutorial.srcs/sources_1/new/always_ffs.v}}]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_comb.sv:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_ffs.v:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_latch.sv:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_latch.sv:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_latch.sv:]
+ERROR: [Common 17-180] Spawn failed: The operation completed successfully.
+
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_comb.sv:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_ffs.v:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_latch.sv:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_comb.sv:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_comb.sv:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_comb.sv:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_ffs.v:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_latch.sv:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_ffs.v:]
+WARNING: [filemgmt 56-199] Attempt to get parsing info during refresh. "On-the-fly" syntax checking information may be incorrect. [D:\Career tracks\Digial_IC\07-Design_tutorial\03-project_tutorial\project_tutorial.srcs\sources_1\new\always_ffs.v:]
+ERROR: [Common 17-180] Spawn failed: The operation completed successfully.
+
+refresh_design
+INFO: [Synth 8-7079] Multithreading enabled for synth_design using a maximum of 2 processes.
+---------------------------------------------------------------------------------
+Starting RTL Elaboration : Time (s): cpu = 00:00:05 ; elapsed = 00:00:05 . Memory (MB): peak = 3705.172 ; gain = 0.000
+---------------------------------------------------------------------------------
+INFO: [Synth 8-6157] synthesizing module 'always_ffs' [D:/Career tracks/Digial_IC/07-Design_tutorial/03-project_tutorial/project_tutorial.srcs/sources_1/new/always_ffs.v:23]
+INFO: [Synth 8-6155] done synthesizing module 'always_ffs' (0#1) [D:/Career tracks/Digial_IC/07-Design_tutorial/03-project_tutorial/project_tutorial.srcs/sources_1/new/always_ffs.v:23]
+---------------------------------------------------------------------------------
+Finished RTL Elaboration : Time (s): cpu = 00:00:07 ; elapsed = 00:00:06 . Memory (MB): peak = 3705.172 ; gain = 0.000
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:07 ; elapsed = 00:00:06 . Memory (MB): peak = 3705.172 ; gain = 0.000
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 1 : Time (s): cpu = 00:00:07 ; elapsed = 00:00:06 . Memory (MB): peak = 3705.172 ; gain = 0.000
+---------------------------------------------------------------------------------
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 3705.172 ; gain = 0.000
+INFO: [Project 1-570] Preparing netlist for logic optimization
+
+Processing XDC Constraints
+Initializing timing engine
+Completed Processing XDC Constraints
+
+refresh_design: Time (s): cpu = 00:00:12 ; elapsed = 00:00:11 . Memory (MB): peak = 3705.172 ; gain = 0.000
 exit
-INFO: [Common 17-206] Exiting Vivado at Thu Apr  9 21:22:08 2026...
+INFO: [Common 17-206] Exiting Vivado at Thu Apr  9 22:57:55 2026...
