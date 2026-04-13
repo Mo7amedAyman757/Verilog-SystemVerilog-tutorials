@@ -27,5 +27,6 @@ module tb ();
 		// push_back() - Push element to the back
 		fruits.push_back("plum");
 		$display ("Push plum,    size=%0d fruits=%p", fruits.size(), fruits);  
+	end
 
 endmodule
